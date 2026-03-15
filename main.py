@@ -1,12 +1,4 @@
-# =============================================================================
-#
-#   ██████╗██╗  ██╗██╗   ██╗██████╗ ███╗   ██╗██╗ ██████╗
-#  ██╔════╝██║  ██║██║   ██║██╔══██╗████╗  ██║██║██╔═══██╗
-#  ██║     ███████║██║   ██║██████╔╝██╔██╗ ██║██║██║   ██║
-#  ██║     ██╔══██║██║   ██║██╔══██╗██║╚██╗██║██║██║▄▄ ██║
-#  ╚██████╗██║  ██║╚██████╔╝██║  ██║██║ ╚████║██║╚██████╔╝
-#   ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚══▀▀═╝
-#
+
 #   ChurnIQ Pro — FILE 2: FastAPI Backend + Gemini AI
 #   ─────────────────────────────────────────────────────────
 #   What this file does:
@@ -186,7 +178,7 @@ print(f"\n  Merged dataset shape: {FULL_DF.shape}")
 #   Takes 2 minutes — no credit card required
 #   Or set as environment variable: export GEMINI_API_KEY="your_key_here"
 # ─────────────────────────────────────────────────────────────────────────────
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyBcP5oiu0j5PYnm2_zAY0H-AlFydcRwg6E")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY")
 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
