@@ -1,0 +1,1002 @@
+customer_id,churn_prob,risk_level,top_reason_1,top_reason_2,top_reason_3,clv_score,actual_churn
+CUST01033,0.9958,HIGH,friction_score (impact: +2.19),tenure_months (impact: +1.39),watch_hours_per_week (impact: +0.80),12.53,1
+CUST02039,0.9892,HIGH,friction_score (impact: +1.83),watch_hours_per_week (impact: +0.85),payment_failures_3m (impact: +0.79),154.29,1
+CUST03326,0.9862,HIGH,friction_score (impact: +1.95),payment_failures_3m (impact: +0.88),device_type_Smart TV (impact: +0.48),57.53,1
+CUST02535,0.9841,HIGH,friction_score (impact: +2.37),last_login_days_ago (impact: +0.77),support_tickets (impact: +0.36),53.78,1
+CUST01528,0.9831,HIGH,friction_score (impact: +1.89),watch_hours_per_week (impact: +1.04),device_type_Mobile (impact: +0.46),20.13,1
+CUST04914,0.9831,HIGH,watch_hours_per_week (impact: +1.23),friction_score (impact: +0.77),payment_failures_3m (impact: +0.64),94.41,1
+CUST04439,0.9818,HIGH,friction_score (impact: +1.61),watch_hours_per_week (impact: +0.85),payment_failures_3m (impact: +0.75),47.13,1
+CUST01734,0.9792,HIGH,watch_hours_per_week (impact: +1.27),country_Singapore (impact: +1.19),device_type_Tablet (impact: +0.36),78.51,1
+CUST01333,0.978,HIGH,tenure_months (impact: +1.45),friction_score (impact: +0.79),payment_failures_3m (impact: +0.51),26.25,1
+CUST00455,0.9743,HIGH,watch_hours_per_week (impact: +1.17),engagement_score (impact: +0.66),payment_failures_3m (impact: +0.60),97.23,1
+CUST02270,0.9729,HIGH,friction_score (impact: +2.40),payment_failures_3m (impact: +0.73),country_Singapore (impact: +0.72),80.8,0
+CUST03042,0.9673,HIGH,tenure_months (impact: +1.43),watch_hours_per_week (impact: +1.01),device_type_Smart TV (impact: +0.56),97.85,1
+CUST04440,0.9655,HIGH,watch_hours_per_week (impact: +1.24),friction_score (impact: +0.80),device_type_Smart TV (impact: +0.50),361.53,1
+CUST00557,0.9644,HIGH,watch_hours_per_week (impact: +1.26),tenure_months (impact: +1.21),engagement_score (impact: +0.95),42.48,1
+CUST02624,0.9644,HIGH,friction_score (impact: +1.75),watch_hours_per_week (impact: +1.08),payment_failures_3m (impact: +0.56),373.01,1
+CUST02854,0.9643,HIGH,friction_score (impact: +1.81),watch_hours_per_week (impact: +0.98),support_tickets (impact: +0.44),49.79,1
+CUST01738,0.9551,HIGH,watch_hours_per_week (impact: +1.11),friction_score (impact: +0.68),payment_failures_3m (impact: +0.47),142.81,1
+CUST00927,0.9545,HIGH,watch_hours_per_week (impact: +1.36),tenure_months (impact: +0.65),engagement_score (impact: +0.64),63.43,1
+CUST04036,0.9525,HIGH,tenure_months (impact: +0.96),watch_hours_per_week (impact: +0.96),friction_score (impact: +0.82),142.16,1
+CUST01723,0.9447,HIGH,friction_score (impact: +2.66),payment_failures_3m (impact: +0.47),tenure_months (impact: +0.45),165.53,1
+CUST03973,0.9444,HIGH,watch_hours_per_week (impact: +1.21),engagement_score (impact: +0.74),payment_failures_3m (impact: +0.56),977.94,1
+CUST04521,0.9442,HIGH,friction_score (impact: +1.18),country_Singapore (impact: +0.92),watch_hours_per_week (impact: +0.46),401.09,0
+CUST03281,0.9433,HIGH,watch_hours_per_week (impact: +1.04),device_type_Mobile (impact: +0.57),preferred_genre_Thriller (impact: +0.53),225.71,1
+CUST04963,0.9427,HIGH,tenure_months (impact: +2.69),device_type_Tablet (impact: +0.52),gender_Male (impact: +0.30),171.49,1
+CUST02616,0.941,HIGH,friction_score (impact: +1.15),watch_hours_per_week (impact: +1.10),country_Singapore (impact: +1.03),1119.27,1
+CUST01144,0.9408,HIGH,watch_hours_per_week (impact: +0.84),friction_score (impact: +0.77),payment_failures_3m (impact: +0.73),106.07,1
+CUST00018,0.9386,HIGH,watch_hours_per_week (impact: +1.31),engagement_score (impact: +0.81),device_type_Mobile (impact: +0.48),459.48,1
+CUST03938,0.9382,HIGH,friction_score (impact: +0.92),payment_failures_3m (impact: +0.75),preferred_genre_Kids (impact: +0.44),221.2,1
+CUST02920,0.9349,HIGH,friction_score (impact: +2.58),payment_failures_3m (impact: +0.82),support_tickets (impact: +0.24),877.34,1
+CUST04456,0.9332,HIGH,friction_score (impact: +1.00),tenure_months (impact: +0.60),device_type_Tablet (impact: +0.47),199.96,1
+CUST00504,0.9316,HIGH,watch_hours_per_week (impact: +1.62),friction_score (impact: +0.95),payment_failures_3m (impact: +0.76),2457.75,1
+CUST03956,0.9314,HIGH,watch_hours_per_week (impact: +1.06),friction_score (impact: +0.78),device_type_Tablet (impact: +0.35),342.2,1
+CUST02729,0.9311,HIGH,friction_score (impact: +1.54),watch_hours_per_week (impact: +1.09),payment_failures_3m (impact: +0.42),1595.89,1
+CUST03861,0.9295,HIGH,watch_hours_per_week (impact: +1.06),tenure_months (impact: +0.74),friction_score (impact: +0.50),338.17,1
+CUST03255,0.9285,HIGH,watch_hours_per_week (impact: +1.34),tenure_months (impact: +0.71),device_type_Tablet (impact: +0.42),85.4,1
+CUST00204,0.9282,HIGH,friction_score (impact: +2.20),payment_failures_3m (impact: +0.74),tenure_months (impact: +0.50),85.67,1
+CUST03069,0.9271,HIGH,watch_hours_per_week (impact: +1.46),device_type_Smart TV (impact: +0.59),engagement_score (impact: +0.43),757.73,1
+CUST04215,0.927,HIGH,friction_score (impact: +0.72),payment_failures_3m (impact: +0.68),preferred_genre_Documentary (impact: +0.55),437.0,0
+CUST03094,0.9252,HIGH,friction_score (impact: +1.19),payment_failures_3m (impact: +0.84),country_USA (impact: +0.52),386.87,0
+CUST03426,0.9243,HIGH,watch_hours_per_week (impact: +1.20),tenure_months (impact: +0.48),device_type_Mobile (impact: +0.39),423.6,1
+CUST02416,0.9216,HIGH,friction_score (impact: +0.97),device_type_Smart TV (impact: +0.62),preferred_genre_Drama (impact: +0.38),860.36,0
+CUST02676,0.9205,HIGH,friction_score (impact: +0.79),preferred_genre_Drama (impact: +0.43),device_type_Mobile (impact: +0.41),832.94,0
+CUST00329,0.9199,HIGH,tenure_months (impact: +2.27),device_type_Tablet (impact: +0.50),preferred_genre_Kids (impact: +0.31),383.99,1
+CUST04446,0.9188,HIGH,watch_hours_per_week (impact: +1.39),payment_failures_3m (impact: +0.77),friction_score (impact: +0.68),1783.72,1
+CUST00542,0.9186,HIGH,watch_hours_per_week (impact: +1.38),device_type_Smart TV (impact: +0.54),engagement_score (impact: +0.49),1040.19,1
+CUST04743,0.9172,HIGH,watch_hours_per_week (impact: +1.23),friction_score (impact: +0.76),engagement_score (impact: +0.37),280.09,1
+CUST04070,0.9134,HIGH,friction_score (impact: +2.39),payment_failures_3m (impact: +0.70),device_type_Mobile (impact: +0.35),517.25,0
+CUST01073,0.9132,HIGH,tenure_months (impact: +2.00),device_type_Mobile (impact: +0.35),preferred_genre_Documentary (impact: +0.34),259.82,1
+CUST01455,0.9126,HIGH,watch_hours_per_week (impact: +1.51),engagement_score (impact: +0.68),tenure_months (impact: +0.62),305.32,1
+CUST04879,0.9124,HIGH,friction_score (impact: +1.33),payment_failures_3m (impact: +0.84),preferred_genre_Thriller (impact: +0.42),1540.59,1
+CUST04790,0.912,HIGH,watch_hours_per_week (impact: +1.26),tenure_months (impact: +0.81),device_type_Tablet (impact: +0.41),421.94,1
+CUST02214,0.9101,HIGH,last_login_days_ago (impact: +1.50),tenure_months (impact: +0.58),country_UK (impact: +0.37),493.57,0
+CUST01484,0.9096,HIGH,watch_hours_per_week (impact: +1.46),tenure_months (impact: +0.49),device_type_Mobile (impact: +0.39),495.98,1
+CUST00675,0.9066,HIGH,watch_hours_per_week (impact: +1.31),device_type_Mobile (impact: +0.60),preferred_genre_Thriller (impact: +0.42),373.05,1
+CUST02901,0.9058,HIGH,watch_hours_per_week (impact: +1.10),country_Singapore (impact: +0.89),device_type_Smart TV (impact: +0.41),376.08,1
+CUST02645,0.9035,HIGH,tenure_months (impact: +2.77),preferred_genre_Documentary (impact: +0.44),gender_Male (impact: +0.24),288.96,0
+CUST04249,0.9026,HIGH,friction_score (impact: +0.83),watch_hours_per_week (impact: +0.76),tenure_months (impact: +0.51),193.79,1
+CUST03365,0.902,HIGH,friction_score (impact: +1.17),tenure_months (impact: +0.62),device_type_Smart TV (impact: +0.51),342.3,0
+CUST00996,0.9012,HIGH,watch_hours_per_week (impact: +1.40),friction_score (impact: +0.67),payment_failures_3m (impact: +0.45),1159.53,1
+CUST03935,0.9009,HIGH,watch_hours_per_week (impact: +1.12),tenure_months (impact: +0.50),engagement_score (impact: +0.47),939.36,1
+CUST02366,0.9009,HIGH,watch_hours_per_week (impact: +1.26),engagement_score (impact: +0.70),device_type_Mobile (impact: +0.52),256.27,1
+CUST02204,0.9008,HIGH,watch_hours_per_week (impact: +1.11),friction_score (impact: +0.79),payment_failures_3m (impact: +0.26),792.85,1
+CUST03968,0.8992,HIGH,watch_hours_per_week (impact: +1.21),device_type_Mobile (impact: +0.45),preferred_genre_Kids (impact: +0.34),754.56,1
+CUST04960,0.8985,HIGH,watch_hours_per_week (impact: +1.32),engagement_score (impact: +0.51),device_type_Tablet (impact: +0.41),121.21,1
+CUST01833,0.8983,HIGH,friction_score (impact: +2.10),tenure_months (impact: +0.27),logins_last_30_days (impact: +0.27),1543.72,0
+CUST04454,0.8982,HIGH,friction_score (impact: +2.08),payment_failures_3m (impact: +0.46),tenure_months (impact: +0.40),558.97,1
+CUST00864,0.8944,HIGH,watch_hours_per_week (impact: +1.27),friction_score (impact: +0.53),preferred_genre_Romance (impact: +0.32),1097.21,0
+CUST01598,0.893,HIGH,tenure_months (impact: +2.07),device_type_Smart TV (impact: +0.40),preferred_genre_Drama (impact: +0.31),320.32,1
+CUST04173,0.892,HIGH,friction_score (impact: +1.15),country_Singapore (impact: +0.98),payment_failures_3m (impact: +0.67),300.98,0
+CUST01588,0.8918,HIGH,watch_hours_per_week (impact: +1.14),engagement_score (impact: +0.58),device_type_Tablet (impact: +0.35),647.98,0
+CUST01664,0.8915,HIGH,tenure_months (impact: +1.70),watch_hours_per_week (impact: +1.19),device_type_Smart TV (impact: +0.45),129.56,1
+CUST02015,0.8899,HIGH,watch_hours_per_week (impact: +1.49),device_type_Smart TV (impact: +0.46),age (impact: +0.26),714.37,1
+CUST02724,0.888,HIGH,watch_hours_per_week (impact: +1.30),tenure_months (impact: +0.90),preferred_genre_Thriller (impact: +0.26),335.26,1
+CUST02012,0.8865,HIGH,watch_hours_per_week (impact: +1.08),friction_score (impact: +0.81),payment_failures_3m (impact: +0.70),2992.38,1
+CUST02206,0.8846,HIGH,tenure_months (impact: +1.19),watch_hours_per_week (impact: +0.86),friction_score (impact: +0.43),137.8,1
+CUST04718,0.8841,HIGH,tenure_months (impact: +1.14),friction_score (impact: +0.66),payment_failures_3m (impact: +0.38),346.89,0
+CUST03769,0.8838,HIGH,tenure_months (impact: +2.05),device_type_Tablet (impact: +0.37),friction_score (impact: +0.23),347.95,1
+CUST00350,0.883,HIGH,friction_score (impact: +1.74),watch_hours_per_week (impact: +0.95),support_tickets (impact: +0.36),1512.9,1
+CUST04745,0.8826,HIGH,watch_hours_per_week (impact: +1.38),tenure_months (impact: +0.53),engagement_score (impact: +0.52),750.28,1
+CUST04369,0.8815,HIGH,tenure_months (impact: +0.73),device_type_Smart TV (impact: +0.42),engagement_score (impact: +0.41),141.46,1
+CUST04243,0.8799,HIGH,friction_score (impact: +2.28),payment_failures_3m (impact: +0.66),device_type_Smart TV (impact: +0.32),1617.89,1
+CUST01098,0.8796,HIGH,watch_hours_per_week (impact: +1.28),device_type_Mobile (impact: +0.49),friction_score (impact: +0.48),1021.77,1
+CUST04137,0.8779,HIGH,watch_hours_per_week (impact: +1.04),device_type_Mobile (impact: +0.61),preferred_genre_Thriller (impact: +0.49),670.27,0
+CUST04068,0.8776,HIGH,watch_hours_per_week (impact: +1.07),payment_failures_3m (impact: +0.74),friction_score (impact: +0.72),1709.54,1
+CUST01614,0.8773,HIGH,watch_hours_per_week (impact: +0.95),payment_failures_3m (impact: +0.71),friction_score (impact: +0.53),1592.2,1
+CUST04349,0.8763,HIGH,friction_score (impact: +1.14),device_type_Smart TV (impact: +0.47),preferred_genre_Thriller (impact: +0.39),320.03,0
+CUST01675,0.8762,HIGH,tenure_months (impact: +2.67),payment_method_UPI (impact: +0.21),watch_hours_per_week (impact: +0.14),147.78,1
+CUST04895,0.8761,HIGH,watch_hours_per_week (impact: +1.60),engagement_score (impact: +0.61),device_type_Mobile (impact: +0.56),1112.42,0
+CUST03404,0.8749,HIGH,watch_hours_per_week (impact: +1.18),country_Singapore (impact: +1.05),friction_score (impact: +0.63),896.41,0
+CUST04489,0.8746,HIGH,watch_hours_per_week (impact: +0.97),country_UK (impact: +0.55),device_type_Mobile (impact: +0.39),249.64,1
+CUST04755,0.8741,HIGH,payment_failures_3m (impact: +0.78),friction_score (impact: +0.68),country_UK (impact: +0.60),1077.69,0
+CUST00713,0.872,HIGH,watch_hours_per_week (impact: +1.34),device_type_Tablet (impact: +0.52),preferred_genre_Documentary (impact: +0.42),2147.83,1
+CUST04191,0.8716,HIGH,friction_score (impact: +0.77),payment_failures_3m (impact: +0.62),device_type_Smart TV (impact: +0.43),1153.5,1
+CUST01054,0.8707,HIGH,friction_score (impact: +1.05),device_type_Smart TV (impact: +0.56),age (impact: +0.35),774.0,0
+CUST00009,0.8684,HIGH,watch_hours_per_week (impact: +1.29),device_type_Tablet (impact: +0.36),tenure_months (impact: +0.27),602.16,0
+CUST01414,0.8666,HIGH,watch_hours_per_week (impact: +1.24),tenure_months (impact: +0.54),device_type_Mobile (impact: +0.36),399.27,1
+CUST01877,0.864,HIGH,friction_score (impact: +1.16),preferred_genre_Thriller (impact: +0.61),device_type_Mobile (impact: +0.55),1493.55,1
+CUST03624,0.8637,HIGH,watch_hours_per_week (impact: +1.65),device_type_Tablet (impact: +0.49),engagement_score (impact: +0.37),1224.68,0
+CUST02276,0.8636,HIGH,watch_hours_per_week (impact: +0.90),device_type_Mobile (impact: +0.47),friction_score (impact: +0.43),1744.32,1
+CUST04308,0.8596,HIGH,watch_hours_per_week (impact: +1.21),device_type_Mobile (impact: +0.62),logins_last_30_days (impact: +0.41),670.42,1
+CUST03165,0.8591,HIGH,friction_score (impact: +1.01),payment_failures_3m (impact: +0.62),device_type_Mobile (impact: +0.45),392.57,0
+CUST02648,0.859,HIGH,watch_hours_per_week (impact: +0.95),friction_score (impact: +0.81),preferred_genre_Thriller (impact: +0.62),1688.72,0
+CUST03660,0.8568,HIGH,tenure_months (impact: +2.48),device_type_Tablet (impact: +0.53),preferred_genre_Comedy (impact: +0.26),686.6,1
+CUST00301,0.8552,HIGH,friction_score (impact: +0.83),device_type_Tablet (impact: +0.37),payment_failures_3m (impact: +0.33),1388.49,1
+CUST04495,0.8548,HIGH,friction_score (impact: +1.32),payment_failures_3m (impact: +0.75),tenure_months (impact: +0.67),173.38,0
+CUST03702,0.8536,HIGH,watch_hours_per_week (impact: +1.16),tenure_months (impact: +0.59),country_USA (impact: +0.51),174.76,1
+CUST03412,0.8519,HIGH,watch_hours_per_week (impact: +1.41),country_Singapore (impact: +0.86),tenure_months (impact: +0.60),176.86,1
+CUST01803,0.8509,HIGH,watch_hours_per_week (impact: +1.40),device_type_Tablet (impact: +0.48),engagement_score (impact: +0.23),267.09,1
+CUST03024,0.8498,HIGH,tenure_months (impact: +2.12),device_type_Smart TV (impact: +0.47),preferred_genre_Drama (impact: +0.33),179.32,1
+CUST00230,0.8497,HIGH,country_Singapore (impact: +0.95),friction_score (impact: +0.88),payment_failures_3m (impact: +0.82),7566.86,0
+CUST02879,0.8489,HIGH,friction_score (impact: +1.01),device_type_Smart TV (impact: +0.51),preferred_genre_Drama (impact: +0.38),980.11,1
+CUST03180,0.8476,HIGH,watch_hours_per_week (impact: +1.05),friction_score (impact: +0.85),device_type_Mobile (impact: +0.46),2314.15,1
+CUST01115,0.8464,HIGH,watch_hours_per_week (impact: +1.20),logins_last_30_days (impact: +0.65),device_type_Tablet (impact: +0.62),305.66,0
+CUST02381,0.8456,HIGH,friction_score (impact: +0.69),tenure_months (impact: +0.56),device_type_Tablet (impact: +0.41),462.16,1
+CUST03279,0.8445,HIGH,friction_score (impact: +1.27),payment_failures_3m (impact: +0.81),tenure_months (impact: +0.54),185.73,1
+CUST00061,0.843,HIGH,watch_hours_per_week (impact: +1.09),tenure_months (impact: +1.05),device_type_Smart TV (impact: +0.37),752.55,0
+CUST03484,0.8395,HIGH,watch_hours_per_week (impact: +1.29),device_type_Mobile (impact: +0.60),engagement_score (impact: +0.42),960.88,0
+CUST00428,0.8382,HIGH,watch_hours_per_week (impact: +1.35),device_type_Mobile (impact: +0.49),engagement_score (impact: +0.30),321.88,1
+CUST04436,0.8381,HIGH,payment_failures_3m (impact: +0.76),friction_score (impact: +0.55),tenure_months (impact: +0.40),193.33,1
+CUST00365,0.8374,HIGH,watch_hours_per_week (impact: +1.62),device_type_Tablet (impact: +0.51),tenure_months (impact: +0.31),550.14,0
+CUST00668,0.8358,HIGH,watch_hours_per_week (impact: +1.33),device_type_Mobile (impact: +0.52),tenure_months (impact: +0.26),784.29,1
+CUST02024,0.8358,HIGH,tenure_months (impact: +1.68),watch_hours_per_week (impact: +1.05),payment_method_Wallet (impact: +0.23),491.56,1
+CUST02097,0.8341,HIGH,friction_score (impact: +1.07),device_type_Mobile (impact: +0.37),watch_hours_per_week (impact: +0.30),726.37,1
+CUST02113,0.8298,HIGH,friction_score (impact: +1.35),payment_failures_3m (impact: +0.87),age (impact: +0.25),474.26,1
+CUST03969,0.8296,HIGH,last_login_days_ago (impact: +1.10),device_type_Tablet (impact: +0.54),watch_hours_per_week (impact: +0.29),1530.36,1
+CUST00688,0.8289,HIGH,friction_score (impact: +0.81),support_tickets (impact: +0.45),logins_last_30_days (impact: +0.38),510.74,0
+CUST03153,0.8277,HIGH,watch_hours_per_week (impact: +1.31),device_type_Smart TV (impact: +0.57),tenure_months (impact: +0.38),2477.76,0
+CUST02080,0.8274,HIGH,watch_hours_per_week (impact: +1.33),device_type_Tablet (impact: +0.46),payment_failures_3m (impact: +0.26),2619.91,1
+CUST02872,0.8269,HIGH,tenure_months (impact: +1.45),country_USA (impact: +0.73),device_type_Tablet (impact: +0.35),518.22,1
+CUST04117,0.825,HIGH,watch_hours_per_week (impact: +1.22),engagement_score (impact: +0.50),device_type_Tablet (impact: +0.45),1957.86,0
+CUST01142,0.8237,HIGH,watch_hours_per_week (impact: +1.36),device_type_Smart TV (impact: +0.50),preferred_genre_Romance (impact: +0.36),771.99,0
+CUST02388,0.8237,HIGH,watch_hours_per_week (impact: +1.02),engagement_score (impact: +0.62),device_type_Mobile (impact: +0.43),420.92,1
+CUST03126,0.8225,HIGH,payment_failures_3m (impact: +0.79),friction_score (impact: +0.79),payment_method_Debit Card (impact: +0.23),1342.51,1
+CUST01493,0.8225,HIGH,watch_hours_per_week (impact: +1.45),country_Singapore (impact: +0.86),preferred_genre_Kids (impact: +0.40),3544.81,0
+CUST03159,0.8214,HIGH,watch_hours_per_week (impact: +1.22),preferred_genre_Documentary (impact: +0.41),tenure_months (impact: +0.36),2996.84,0
+CUST03135,0.8214,HIGH,friction_score (impact: +0.84),payment_failures_3m (impact: +0.58),preferred_genre_Documentary (impact: +0.47),1137.2,1
+CUST01272,0.8207,HIGH,engagement_score (impact: +0.48),tenure_months (impact: +0.42),preferred_genre_Drama (impact: +0.40),536.85,1
+CUST02734,0.8205,HIGH,friction_score (impact: +0.89),payment_failures_3m (impact: +0.70),preferred_genre_Thriller (impact: +0.50),750.05,1
+CUST03574,0.8197,HIGH,watch_hours_per_week (impact: +1.09),engagement_score (impact: +0.46),device_type_Smart TV (impact: +0.45),809.85,0
+CUST02991,0.8184,HIGH,watch_hours_per_week (impact: +1.29),device_type_Tablet (impact: +0.34),engagement_score (impact: +0.32),758.73,0
+CUST01086,0.8172,HIGH,friction_score (impact: +0.62),device_type_Smart TV (impact: +0.40),preferred_genre_Romance (impact: +0.34),509.33,0
+CUST03632,0.816,HIGH,watch_hours_per_week (impact: +1.40),engagement_score (impact: +0.73),device_type_Smart TV (impact: +0.41),2636.25,1
+CUST03294,0.816,HIGH,last_login_days_ago (impact: +1.57),device_type_Tablet (impact: +0.37),preferred_genre_Comedy (impact: +0.26),3235.06,0
+CUST04565,0.8153,HIGH,tenure_months (impact: +2.16),friction_score (impact: +0.43),device_type_Smart TV (impact: +0.24),220.51,0
+CUST04809,0.8113,HIGH,friction_score (impact: +1.05),device_type_Mobile (impact: +0.46),support_tickets (impact: +0.45),1014.13,0
+CUST03273,0.8097,HIGH,friction_score (impact: +0.96),payment_failures_3m (impact: +0.87),preferred_genre_Documentary (impact: +0.49),1666.57,1
+CUST03813,0.809,HIGH,watch_hours_per_week (impact: +1.34),engagement_score (impact: +0.70),device_type_Tablet (impact: +0.37),760.11,1
+CUST00759,0.8079,HIGH,watch_hours_per_week (impact: +1.10),tenure_months (impact: +0.52),device_type_Smart TV (impact: +0.46),229.4,1
+CUST03678,0.8072,HIGH,watch_hours_per_week (impact: +1.14),device_type_Mobile (impact: +0.42),engagement_score (impact: +0.41),2309.42,1
+CUST01321,0.8066,HIGH,watch_hours_per_week (impact: +1.29),device_type_Smart TV (impact: +0.52),preferred_genre_Thriller (impact: +0.41),1854.37,1
+CUST01529,0.803,HIGH,watch_hours_per_week (impact: +1.27),device_type_Tablet (impact: +0.56),engagement_score (impact: +0.34),2391.13,1
+CUST02217,0.803,HIGH,watch_hours_per_week (impact: +0.82),preferred_genre_Documentary (impact: +0.38),friction_score (impact: +0.33),786.29,1
+CUST04502,0.8019,HIGH,friction_score (impact: +1.01),device_type_Tablet (impact: +0.37),tenure_months (impact: +0.35),394.3,1
+CUST02243,0.8007,HIGH,friction_score (impact: +1.03),preferred_genre_Thriller (impact: +0.38),device_type_Tablet (impact: +0.36),3381.26,1
+CUST04220,0.7996,HIGH,friction_score (impact: +1.75),payment_failures_3m (impact: +0.51),device_type_Mobile (impact: +0.31),5300.78,1
+CUST01445,0.799,HIGH,tenure_months (impact: +2.13),device_type_Tablet (impact: +0.47),preferred_genre_Drama (impact: +0.23),601.78,1
+CUST03239,0.7986,HIGH,friction_score (impact: +0.92),payment_failures_3m (impact: +0.87),device_type_Tablet (impact: +0.33),1803.61,1
+CUST03836,0.7986,HIGH,tenure_months (impact: +2.12),country_Singapore (impact: +0.74),device_type_Tablet (impact: +0.48),240.46,0
+CUST04411,0.7985,HIGH,watch_hours_per_week (impact: +1.46),device_type_Tablet (impact: +0.44),engagement_score (impact: +0.39),2092.78,1
+CUST01697,0.7981,HIGH,friction_score (impact: +0.82),payment_failures_3m (impact: +0.48),device_type_Mobile (impact: +0.41),723.31,1
+CUST04196,0.7977,HIGH,friction_score (impact: +0.70),device_type_Mobile (impact: +0.42),payment_method_Wallet (impact: +0.23),1918.13,1
+CUST01075,0.7969,HIGH,watch_hours_per_week (impact: +1.41),engagement_score (impact: +0.40),device_type_Tablet (impact: +0.37),7296.09,1
+CUST00360,0.7959,HIGH,watch_hours_per_week (impact: +0.85),logins_last_30_days (impact: +0.44),age (impact: +0.30),527.99,0
+CUST04486,0.7959,HIGH,friction_score (impact: +1.82),preferred_genre_Documentary (impact: +0.54),device_type_Mobile (impact: +0.29),324.93,1
+CUST00827,0.7948,HIGH,friction_score (impact: +1.06),preferred_genre_Documentary (impact: +0.47),watch_hours_per_week (impact: +0.34),653.25,1
+CUST03549,0.7945,HIGH,watch_hours_per_week (impact: +1.36),engagement_score (impact: +0.47),preferred_genre_Drama (impact: +0.42),4820.09,0
+CUST02013,0.7913,HIGH,friction_score (impact: +1.06),device_type_Smart TV (impact: +0.58),tenure_months (impact: +0.33),2501.72,1
+CUST04112,0.7897,HIGH,watch_hours_per_week (impact: +0.87),engagement_score (impact: +0.33),device_type_Tablet (impact: +0.31),460.35,1
+CUST04873,0.787,HIGH,watch_hours_per_week (impact: +1.16),engagement_score (impact: +0.42),preferred_genre_Documentary (impact: +0.28),1062.71,1
+CUST04943,0.7847,HIGH,watch_hours_per_week (impact: +1.04),device_type_Mobile (impact: +0.54),engagement_score (impact: +0.47),1071.19,1
+CUST00413,0.7843,HIGH,friction_score (impact: +0.82),payment_failures_3m (impact: +0.62),device_type_Mobile (impact: +0.31),2690.78,1
+CUST02738,0.7836,HIGH,watch_hours_per_week (impact: +1.26),device_type_Smart TV (impact: +0.46),preferred_genre_Romance (impact: +0.36),2483.88,0
+CUST01042,0.7825,HIGH,watch_hours_per_week (impact: +0.94),device_type_Mobile (impact: +0.56),tenure_months (impact: +0.45),1844.84,0
+CUST02610,0.7809,HIGH,friction_score (impact: +1.08),num_profiles (impact: +0.28),preferred_genre_Drama (impact: +0.25),1640.13,1
+CUST04578,0.7806,HIGH,watch_hours_per_week (impact: +1.26),tenure_months (impact: +1.01),engagement_score (impact: +0.28),1051.64,1
+CUST01055,0.7805,HIGH,friction_score (impact: +0.69),watch_hours_per_week (impact: +0.36),device_type_Mobile (impact: +0.33),1578.59,1
+CUST00369,0.779,HIGH,tenure_months (impact: +0.80),device_type_Tablet (impact: +0.49),preferred_genre_Thriller (impact: +0.37),263.9,0
+CUST04496,0.7788,HIGH,watch_hours_per_week (impact: +0.88),device_type_Mobile (impact: +0.54),preferred_genre_Documentary (impact: +0.45),968.35,1
+CUST00640,0.7773,HIGH,watch_hours_per_week (impact: +1.42),device_type_Mobile (impact: +0.47),engagement_score (impact: +0.38),842.12,1
+CUST03129,0.7758,HIGH,country_USA (impact: +0.84),payment_failures_3m (impact: +0.80),friction_score (impact: +0.72),4474.09,0
+CUST03671,0.7742,HIGH,friction_score (impact: +1.03),payment_failures_3m (impact: +0.65),device_type_Mobile (impact: +0.37),629.03,1
+CUST02253,0.7729,HIGH,watch_hours_per_week (impact: +1.45),engagement_score (impact: +0.53),country_USA (impact: +0.42),678.0,1
+CUST00676,0.771,HIGH,watch_hours_per_week (impact: +1.16),device_type_Smart TV (impact: +0.59),preferred_genre_Romance (impact: +0.42),1828.5,1
+CUST00963,0.7706,HIGH,watch_hours_per_week (impact: +1.43),device_type_Smart TV (impact: +0.62),tenure_months (impact: +0.39),3299.68,1
+CUST04242,0.7688,HIGH,tenure_months (impact: +0.91),preferred_genre_Documentary (impact: +0.58),device_type_Mobile (impact: +0.34),1108.57,1
+CUST02003,0.7678,HIGH,preferred_genre_Documentary (impact: +0.63),device_type_Mobile (impact: +0.47),tenure_months (impact: +0.40),369.61,0
+CUST01643,0.7673,HIGH,friction_score (impact: +0.91),payment_failures_3m (impact: +0.67),device_type_Mobile (impact: +0.40),324.17,0
+CUST04958,0.7642,HIGH,watch_hours_per_week (impact: +1.25),device_type_Tablet (impact: +0.70),logins_last_30_days (impact: +0.49),1923.5,1
+CUST01212,0.7639,HIGH,country_Singapore (impact: +0.95),friction_score (impact: +0.71),preferred_genre_Thriller (impact: +0.29),2002.84,1
+CUST01861,0.7637,HIGH,watch_hours_per_week (impact: +1.17),device_type_Smart TV (impact: +0.48),friction_score (impact: +0.42),1132.64,1
+CUST04716,0.7622,HIGH,watch_hours_per_week (impact: +1.14),friction_score (impact: +0.59),preferred_genre_Romance (impact: +0.37),1797.97,1
+CUST04524,0.7615,HIGH,friction_score (impact: +1.99),payment_failures_3m (impact: +0.28),preferred_genre_Kids (impact: +0.22),1471.55,1
+CUST04247,0.7603,HIGH,device_type_Mobile (impact: +0.58),preferred_genre_Thriller (impact: +0.43),gender_Male (impact: +0.28),1196.24,0
+CUST04908,0.7589,HIGH,watch_hours_per_week (impact: +1.58),device_type_Tablet (impact: +0.43),engagement_score (impact: +0.29),767.64,1
+CUST00288,0.7573,HIGH,watch_hours_per_week (impact: +1.35),device_type_Smart TV (impact: +0.46),engagement_score (impact: +0.43),1014.41,1
+CUST01682,0.7563,HIGH,watch_hours_per_week (impact: +1.26),engagement_score (impact: +0.57),device_type_Smart TV (impact: +0.44),1337.42,1
+CUST01172,0.7557,HIGH,watch_hours_per_week (impact: +1.21),payment_failures_3m (impact: +0.48),device_type_Mobile (impact: +0.37),2771.54,1
+CUST02357,0.7551,HIGH,tenure_months (impact: +1.91),country_Singapore (impact: +0.57),device_type_Smart TV (impact: +0.40),292.36,1
+CUST01138,0.7541,HIGH,watch_hours_per_week (impact: +1.19),device_type_Tablet (impact: +0.50),preferred_genre_Documentary (impact: +0.47),685.21,1
+CUST02830,0.7531,HIGH,watch_hours_per_week (impact: +0.68),friction_score (impact: +0.63),support_tickets (impact: +0.38),2367.11,1
+CUST01247,0.7512,HIGH,watch_hours_per_week (impact: +1.37),device_type_Tablet (impact: +0.36),logins_last_30_days (impact: +0.19),396.09,1
+CUST00847,0.75,HIGH,friction_score (impact: +0.99),device_type_Mobile (impact: +0.41),preferred_genre_Drama (impact: +0.40),1990.25,0
+CUST01647,0.7495,HIGH,watch_hours_per_week (impact: +1.12),country_USA (impact: +0.57),device_type_Smart TV (impact: +0.52),598.11,1
+CUST00992,0.7494,HIGH,watch_hours_per_week (impact: +1.45),preferred_genre_Thriller (impact: +0.28),tenure_months (impact: +0.24),1047.4,1
+CUST01297,0.7427,HIGH,watch_hours_per_week (impact: +1.39),device_type_Mobile (impact: +0.42),tenure_months (impact: +0.33),3906.57,1
+CUST02221,0.7422,HIGH,watch_hours_per_week (impact: +1.00),device_type_Mobile (impact: +0.43),engagement_score (impact: +0.42),667.03,1
+CUST03357,0.7414,HIGH,watch_hours_per_week (impact: +1.22),device_type_Tablet (impact: +0.61),preferred_genre_Romance (impact: +0.36),2778.47,1
+CUST03996,0.7395,HIGH,friction_score (impact: +1.12),payment_failures_3m (impact: +0.68),preferred_genre_Thriller (impact: +0.49),1429.97,1
+CUST03744,0.7382,HIGH,watch_hours_per_week (impact: +0.83),friction_score (impact: +0.57),payment_failures_3m (impact: +0.36),5646.86,1
+CUST02028,0.7362,HIGH,tenure_months (impact: +0.89),watch_hours_per_week (impact: +0.38),device_type_Tablet (impact: +0.32),1264.56,0
+CUST00949,0.734,HIGH,friction_score (impact: +1.20),country_USA (impact: +0.50),device_type_Mobile (impact: +0.42),3400.86,0
+CUST03156,0.734,HIGH,country_Singapore (impact: +0.91),friction_score (impact: +0.41),device_type_Mobile (impact: +0.32),1592.56,1
+CUST01785,0.7329,HIGH,payment_failures_3m (impact: +0.78),friction_score (impact: +0.58),device_type_Tablet (impact: +0.55),478.46,0
+CUST00203,0.7322,HIGH,tenure_months (impact: +0.74),preferred_genre_Documentary (impact: +0.57),device_type_Smart TV (impact: +0.46),1283.9,0
+CUST03112,0.7307,HIGH,watch_hours_per_week (impact: +1.16),preferred_genre_Thriller (impact: +0.33),engagement_score (impact: +0.32),2418.58,0
+CUST03297,0.7306,HIGH,payment_failures_3m (impact: +0.82),friction_score (impact: +0.74),watch_hours_per_week (impact: +0.23),1715.36,0
+CUST01417,0.7301,HIGH,friction_score (impact: +0.60),tenure_months (impact: +0.60),logins_last_30_days (impact: +0.54),808.08,0
+CUST01177,0.7297,HIGH,friction_score (impact: +0.98),payment_failures_3m (impact: +0.69),device_type_Smart TV (impact: +0.46),860.49,1
+CUST00622,0.7291,HIGH,watch_hours_per_week (impact: +1.42),preferred_genre_Thriller (impact: +0.36),engagement_score (impact: +0.21),3881.42,1
+CUST01379,0.7287,HIGH,tenure_months (impact: +0.80),preferred_genre_Documentary (impact: +0.57),device_type_Tablet (impact: +0.43),323.92,1
+CUST00241,0.7285,HIGH,friction_score (impact: +1.07),country_Singapore (impact: +0.95),payment_failures_3m (impact: +0.60),1567.07,1
+CUST01219,0.7273,HIGH,watch_hours_per_week (impact: +0.94),friction_score (impact: +0.70),engagement_score (impact: +0.28),1628.11,1
+CUST04857,0.7268,HIGH,friction_score (impact: +0.84),device_type_Tablet (impact: +0.40),tenure_months (impact: +0.27),1141.65,0
+CUST03181,0.7261,HIGH,watch_hours_per_week (impact: +0.74),tenure_months (impact: +0.62),preferred_genre_Documentary (impact: +0.35),819.98,1
+CUST03288,0.7237,HIGH,watch_hours_per_week (impact: +1.28),engagement_score (impact: +0.68),num_profiles (impact: +0.27),7726.51,1
+CUST02078,0.7235,HIGH,watch_hours_per_week (impact: +1.22),device_type_Smart TV (impact: +0.45),preferred_genre_Drama (impact: +0.22),3907.01,0
+CUST04260,0.7234,HIGH,friction_score (impact: +0.90),device_type_Mobile (impact: +0.43),payment_failures_3m (impact: +0.32),1431.09,0
+CUST00799,0.7219,HIGH,device_type_Mobile (impact: +0.45),preferred_genre_Drama (impact: +0.35),tenure_months (impact: +0.35),1526.28,0
+CUST00914,0.721,HIGH,tenure_months (impact: +0.79),device_type_Mobile (impact: +0.57),country_USA (impact: +0.55),835.31,0
+CUST04822,0.7202,HIGH,watch_hours_per_week (impact: +1.10),payment_failures_3m (impact: +0.47),preferred_genre_Drama (impact: +0.28),4048.73,1
+CUST01057,0.7202,HIGH,watch_hours_per_week (impact: +1.22),engagement_score (impact: +0.54),logins_last_30_days (impact: +0.23),4049.64,0
+CUST01472,0.7198,HIGH,watch_hours_per_week (impact: +1.48),tenure_months (impact: +0.37),preferred_genre_Drama (impact: +0.35),1957.6,0
+CUST03839,0.7193,HIGH,watch_hours_per_week (impact: +1.21),device_type_Smart TV (impact: +0.52),payment_failures_3m (impact: +0.39),1787.59,0
+CUST04214,0.7186,HIGH,watch_hours_per_week (impact: +1.34),friction_score (impact: +0.43),device_type_Mobile (impact: +0.41),2128.07,1
+CUST02705,0.7174,HIGH,friction_score (impact: +0.98),tenure_months (impact: +0.49),device_type_Tablet (impact: +0.44),846.01,1
+CUST01011,0.716,HIGH,friction_score (impact: +0.56),payment_failures_3m (impact: +0.52),preferred_genre_Documentary (impact: +0.47),2834.73,1
+CUST03257,0.7148,HIGH,friction_score (impact: +1.05),payment_failures_3m (impact: +1.04),device_type_Smart TV (impact: +0.32),2326.55,1
+CUST02492,0.7128,HIGH,watch_hours_per_week (impact: +1.11),country_USA (impact: +0.61),device_type_Smart TV (impact: +0.43),1146.4,0
+CUST01100,0.7122,HIGH,watch_hours_per_week (impact: +1.41),tenure_months (impact: +0.40),device_type_Smart TV (impact: +0.38),2728.86,0
+CUST01857,0.7116,HIGH,friction_score (impact: +0.97),country_USA (impact: +0.69),device_type_Smart TV (impact: +0.54),2446.65,0
+CUST02327,0.7109,HIGH,watch_hours_per_week (impact: +1.51),device_type_Smart TV (impact: +0.40),engagement_score (impact: +0.38),2013.39,1
+CUST03049,0.7089,HIGH,watch_hours_per_week (impact: +1.26),country_Singapore (impact: +0.84),engagement_score (impact: +0.37),984.64,1
+CUST01402,0.7076,HIGH,watch_hours_per_week (impact: +1.52),device_type_Tablet (impact: +0.51),engagement_score (impact: +0.34),523.61,1
+CUST03868,0.7062,HIGH,friction_score (impact: +0.99),payment_failures_3m (impact: +0.73),device_type_Tablet (impact: +0.38),1519.96,0
+CUST01197,0.7055,HIGH,watch_hours_per_week (impact: +1.19),preferred_genre_Comedy (impact: +0.36),engagement_score (impact: +0.34),2939.53,0
+CUST03429,0.7041,HIGH,watch_hours_per_week (impact: +1.31),engagement_score (impact: +0.48),device_type_Tablet (impact: +0.26),824.44,1
+CUST04511,0.7029,HIGH,device_type_Smart TV (impact: +0.56),friction_score (impact: +0.53),preferred_genre_Thriller (impact: +0.46),3261.17,0
+CUST04885,0.7018,HIGH,watch_hours_per_week (impact: +0.88),tenure_months (impact: +0.79),device_type_Mobile (impact: +0.44),356.02,1
+CUST02006,0.7005,HIGH,friction_score (impact: +0.89),device_type_Smart TV (impact: +0.53),preferred_genre_Thriller (impact: +0.37),5983.04,1
+CUST04935,0.6971,MEDIUM,watch_hours_per_week (impact: +1.10),device_type_Mobile (impact: +0.53),engagement_score (impact: +0.52),3627.1,1
+CUST00407,0.6968,MEDIUM,tenure_months (impact: +1.45),watch_hours_per_week (impact: +0.70),device_type_Smart TV (impact: +0.60),362.01,1
+CUST04053,0.6966,MEDIUM,payment_failures_3m (impact: +0.71),friction_score (impact: +0.58),device_type_Smart TV (impact: +0.39),483.01,0
+CUST00803,0.6963,MEDIUM,watch_hours_per_week (impact: +1.14),engagement_score (impact: +0.40),device_type_Tablet (impact: +0.32),2121.53,1
+CUST03285,0.6961,MEDIUM,watch_hours_per_week (impact: +1.11),preferred_genre_Thriller (impact: +0.31),tenure_months (impact: +0.22),1330.27,0
+CUST03408,0.6956,MEDIUM,watch_hours_per_week (impact: +1.38),device_type_Mobile (impact: +0.33),preferred_genre_Kids (impact: +0.28),4101.61,1
+CUST03976,0.6951,MEDIUM,friction_score (impact: +0.91),payment_failures_3m (impact: +0.58),logins_last_30_days (impact: +0.30),5359.43,0
+CUST02547,0.6921,MEDIUM,watch_hours_per_week (impact: +1.12),engagement_score (impact: +0.28),preferred_genre_Thriller (impact: +0.24),2304.27,1
+CUST00195,0.6897,MEDIUM,friction_score (impact: +0.94),payment_failures_3m (impact: +0.69),country_USA (impact: +0.56),2408.18,1
+CUST00841,0.6895,MEDIUM,watch_hours_per_week (impact: +1.24),tenure_months (impact: +0.61),preferred_genre_Kids (impact: +0.33),370.68,1
+CUST01949,0.6878,MEDIUM,watch_hours_per_week (impact: +0.99),device_type_Smart TV (impact: +0.58),gender_Other (impact: +0.14),2993.38,1
+CUST02760,0.6867,MEDIUM,device_type_Tablet (impact: +0.42),tenure_months (impact: +0.39),engagement_score (impact: +0.36),1122.28,0
+CUST01677,0.6848,MEDIUM,watch_hours_per_week (impact: +1.21),device_type_Mobile (impact: +0.46),engagement_score (impact: +0.25),2044.99,0
+CUST04090,0.6835,MEDIUM,watch_hours_per_week (impact: +1.24),preferred_genre_Drama (impact: +0.48),device_type_Smart TV (impact: +0.44),2141.71,0
+CUST04882,0.6835,MEDIUM,payment_failures_3m (impact: +0.84),friction_score (impact: +0.72),device_type_Tablet (impact: +0.29),4422.6,0
+CUST04542,0.6821,MEDIUM,friction_score (impact: +1.02),device_type_Smart TV (impact: +0.36),tenure_months (impact: +0.25),4318.48,1
+CUST03561,0.6818,MEDIUM,friction_score (impact: +0.91),tenure_months (impact: +0.65),device_type_Smart TV (impact: +0.49),1525.43,0
+CUST02057,0.6802,MEDIUM,tenure_months (impact: +0.93),device_type_Tablet (impact: +0.38),preferred_genre_Romance (impact: +0.31),381.86,0
+CUST02938,0.6796,MEDIUM,watch_hours_per_week (impact: +1.22),device_type_Smart TV (impact: +0.45),preferred_genre_Thriller (impact: +0.31),4095.93,0
+CUST03186,0.6788,MEDIUM,watch_hours_per_week (impact: +1.51),preferred_genre_Comedy (impact: +0.39),engagement_score (impact: +0.34),3205.13,1
+CUST02746,0.6786,MEDIUM,engagement_score (impact: +0.46),device_type_Smart TV (impact: +0.46),tenure_months (impact: +0.42),2825.08,0
+CUST00805,0.6772,MEDIUM,friction_score (impact: +0.55),tenure_months (impact: +0.50),preferred_genre_Documentary (impact: +0.30),1127.38,0
+CUST00454,0.6757,MEDIUM,friction_score (impact: +1.00),watch_hours_per_week (impact: +0.42),preferred_genre_Drama (impact: +0.37),2645.75,0
+CUST03787,0.6756,MEDIUM,friction_score (impact: +1.02),payment_failures_3m (impact: +0.73),tenure_months (impact: +0.30),451.94,0
+CUST03012,0.6718,MEDIUM,device_type_Mobile (impact: +0.44),logins_last_30_days (impact: +0.38),preferred_genre_Romance (impact: +0.34),587.85,1
+CUST03258,0.6717,MEDIUM,friction_score (impact: +1.03),payment_failures_3m (impact: +0.56),device_type_Mobile (impact: +0.43),3276.08,1
+CUST00590,0.6708,MEDIUM,friction_score (impact: +1.00),tenure_months (impact: +0.30),gender_Male (impact: +0.24),1310.26,1
+CUST02499,0.6702,MEDIUM,device_type_Smart TV (impact: +0.50),payment_failures_3m (impact: +0.33),preferred_genre_Thriller (impact: +0.32),7241.28,0
+CUST01117,0.6675,MEDIUM,country_Singapore (impact: +0.88),friction_score (impact: +0.65),preferred_genre_Thriller (impact: +0.31),992.62,1
+CUST02117,0.6675,MEDIUM,watch_hours_per_week (impact: +1.03),device_type_Smart TV (impact: +0.42),preferred_genre_Documentary (impact: +0.39),1825.24,1
+CUST04033,0.665,MEDIUM,watch_hours_per_week (impact: +1.57),tenure_months (impact: +0.59),engagement_score (impact: +0.27),466.69,0
+CUST00555,0.6626,MEDIUM,friction_score (impact: +0.60),device_type_Smart TV (impact: +0.54),preferred_genre_Drama (impact: +0.37),2965.16,1
+CUST04069,0.6616,MEDIUM,friction_score (impact: +0.94),payment_failures_3m (impact: +0.56),country_USA (impact: +0.41),5065.88,0
+CUST03424,0.6613,MEDIUM,watch_hours_per_week (impact: +1.32),device_type_Smart TV (impact: +0.46),preferred_genre_Comedy (impact: +0.25),943.55,1
+CUST03999,0.6599,MEDIUM,friction_score (impact: +0.99),payment_failures_3m (impact: +0.61),preferred_genre_Thriller (impact: +0.52),4242.43,1
+CUST04158,0.6576,MEDIUM,preferred_genre_Thriller (impact: +0.40),device_type_Tablet (impact: +0.34),gender_Male (impact: +0.26),5198.05,1
+CUST03837,0.6553,MEDIUM,watch_hours_per_week (impact: +1.66),preferred_genre_Kids (impact: +0.40),engagement_score (impact: +0.23),6363.37,0
+CUST02740,0.6552,MEDIUM,friction_score (impact: +0.88),device_type_Smart TV (impact: +0.57),payment_failures_3m (impact: +0.45),4301.91,1
+CUST00852,0.6551,MEDIUM,payment_failures_3m (impact: +0.86),friction_score (impact: +0.60),device_type_Smart TV (impact: +0.39),2608.17,0
+CUST00460,0.6543,MEDIUM,payment_failures_3m (impact: +0.84),friction_score (impact: +0.56),preferred_genre_Thriller (impact: +0.23),1031.78,0
+CUST03305,0.6539,MEDIUM,watch_hours_per_week (impact: +1.03),country_Singapore (impact: +0.83),engagement_score (impact: +0.29),2765.22,0
+CUST03455,0.6518,MEDIUM,watch_hours_per_week (impact: +0.90),device_type_Smart TV (impact: +0.41),preferred_genre_Kids (impact: +0.14),4988.33,0
+CUST01750,0.6516,MEDIUM,country_Singapore (impact: +1.19),friction_score (impact: +0.73),device_type_Smart TV (impact: +0.35),1871.81,0
+CUST04802,0.648,MEDIUM,last_login_days_ago (impact: +0.90),device_type_Smart TV (impact: +0.46),preferred_genre_Documentary (impact: +0.46),8436.78,0
+CUST04676,0.6466,MEDIUM,friction_score (impact: +0.49),tenure_months (impact: +0.38),engagement_score (impact: +0.30),3174.02,0
+CUST04685,0.6466,MEDIUM,watch_hours_per_week (impact: +1.43),preferred_genre_Drama (impact: +0.34),payment_method_UPI (impact: +0.24),632.89,1
+CUST02321,0.6437,MEDIUM,friction_score (impact: +0.69),payment_failures_3m (impact: +0.59),device_type_Mobile (impact: +0.41),3733.52,1
+CUST02658,0.6435,MEDIUM,watch_hours_per_week (impact: +1.07),device_type_Tablet (impact: +0.61),preferred_genre_Comedy (impact: +0.34),638.58,1
+CUST01006,0.6409,MEDIUM,preferred_genre_Documentary (impact: +0.73),device_type_Tablet (impact: +0.30),gender_Other (impact: +0.27),714.7,0
+CUST02538,0.6367,MEDIUM,tenure_months (impact: +0.77),preferred_genre_Documentary (impact: +0.52),device_type_Tablet (impact: +0.47),506.1,0
+CUST04086,0.6361,MEDIUM,tenure_months (impact: +2.09),device_type_Mobile (impact: +0.33),payment_method_Wallet (impact: +0.20),1089.56,1
+CUST02007,0.6335,MEDIUM,last_login_days_ago (impact: +1.74),device_type_Tablet (impact: +0.45),preferred_genre_Comedy (impact: +0.29),19328.62,0
+CUST04028,0.6321,MEDIUM,watch_hours_per_week (impact: +1.11),payment_failures_3m (impact: +0.43),engagement_score (impact: +0.20),3074.96,0
+CUST01259,0.6316,MEDIUM,watch_hours_per_week (impact: +1.21),country_Singapore (impact: +0.88),payment_method_Wallet (impact: +0.24),1026.46,1
+CUST03985,0.6278,MEDIUM,watch_hours_per_week (impact: +1.69),engagement_score (impact: +0.41),tenure_months (impact: +0.27),3529.02,1
+CUST00308,0.6272,MEDIUM,friction_score (impact: +0.95),device_type_Mobile (impact: +0.43),watch_hours_per_week (impact: +0.22),5957.72,0
+CUST03816,0.6271,MEDIUM,device_type_Tablet (impact: +0.66),preferred_genre_Kids (impact: +0.37),watch_hours_per_week (impact: +0.27),667.79,1
+CUST04261,0.625,MEDIUM,friction_score (impact: +0.67),device_type_Mobile (impact: +0.47),tenure_months (impact: +0.25),1641.85,0
+CUST04146,0.6249,MEDIUM,tenure_months (impact: +0.72),device_type_Smart TV (impact: +0.45),payment_method_Wallet (impact: +0.26),1123.05,0
+CUST02034,0.6219,MEDIUM,friction_score (impact: +1.17),device_type_Mobile (impact: +0.44),tenure_months (impact: +0.29),6343.43,1
+CUST03884,0.6192,MEDIUM,tenure_months (impact: +0.77),preferred_genre_Documentary (impact: +0.42),gender_Male (impact: +0.18),454.73,0
+CUST01025,0.6186,MEDIUM,payment_failures_3m (impact: +0.74),friction_score (impact: +0.62),engagement_score (impact: +0.34),2049.11,0
+CUST02582,0.6173,MEDIUM,friction_score (impact: +0.93),payment_failures_3m (impact: +0.82),num_profiles (impact: +0.20),8021.64,1
+CUST02583,0.6173,MEDIUM,friction_score (impact: +0.54),device_type_Tablet (impact: +0.41),payment_method_Debit Card (impact: +0.34),3055.85,0
+CUST03651,0.6167,MEDIUM,tenure_months (impact: +0.67),device_type_Smart TV (impact: +0.50),age (impact: +0.32),457.7,1
+CUST02107,0.6165,MEDIUM,device_type_Mobile (impact: +0.54),preferred_genre_Documentary (impact: +0.47),tenure_months (impact: +0.38),1722.18,0
+CUST01369,0.6139,MEDIUM,payment_failures_3m (impact: +0.79),friction_score (impact: +0.70),preferred_genre_Drama (impact: +0.24),2151.59,1
+CUST04581,0.6135,MEDIUM,payment_failures_3m (impact: +0.43),device_type_Mobile (impact: +0.40),num_profiles (impact: +0.17),13887.68,0
+CUST01173,0.61,MEDIUM,device_type_Tablet (impact: +0.41),engagement_score (impact: +0.31),preferred_genre_Romance (impact: +0.24),1164.26,1
+CUST01332,0.6077,MEDIUM,device_type_Smart TV (impact: +0.60),preferred_genre_Thriller (impact: +0.21),payment_method_Wallet (impact: +0.21),624.47,0
+CUST03705,0.6061,MEDIUM,watch_hours_per_week (impact: +1.12),device_type_Smart TV (impact: +0.44),preferred_genre_Thriller (impact: +0.30),783.85,1
+CUST01603,0.6043,MEDIUM,watch_hours_per_week (impact: +1.33),device_type_Smart TV (impact: +0.50),tenure_months (impact: +0.43),4344.12,1
+CUST00533,0.6027,MEDIUM,watch_hours_per_week (impact: +1.26),tenure_months (impact: +0.26),payment_method_UPI (impact: +0.24),3568.97,1
+CUST04940,0.6018,MEDIUM,device_type_Tablet (impact: +0.53),preferred_genre_Romance (impact: +0.39),payment_method_Wallet (impact: +0.19),4199.49,1
+CUST00637,0.6018,MEDIUM,watch_hours_per_week (impact: +1.16),device_type_Mobile (impact: +0.38),engagement_score (impact: +0.26),2852.37,1
+CUST00361,0.5987,MEDIUM,device_type_Tablet (impact: +0.54),last_login_days_ago (impact: +0.35),engagement_score (impact: +0.26),1601.91,0
+CUST01326,0.5967,MEDIUM,logins_last_30_days (impact: +0.73),device_type_Tablet (impact: +0.62),payment_method_Debit Card (impact: +0.33),4093.14,0
+CUST02446,0.5965,MEDIUM,engagement_score (impact: +0.50),preferred_genre_Thriller (impact: +0.33),device_type_Tablet (impact: +0.29),3019.9,0
+CUST01512,0.596,MEDIUM,friction_score (impact: +0.78),payment_failures_3m (impact: +0.72),country_USA (impact: +0.57),7459.9,1
+CUST01260,0.5958,MEDIUM,friction_score (impact: +0.78),payment_failures_3m (impact: +0.57),country_UK (impact: +0.48),4639.51,0
+CUST03419,0.5946,MEDIUM,watch_hours_per_week (impact: +1.33),device_type_Tablet (impact: +0.67),engagement_score (impact: +0.55),13281.15,1
+CUST01769,0.593,MEDIUM,watch_hours_per_week (impact: +1.32),gender_Male (impact: +0.20),friction_score (impact: +0.19),2672.47,1
+CUST02332,0.5898,MEDIUM,watch_hours_per_week (impact: +1.03),device_type_Mobile (impact: +0.56),country_UK (impact: +0.27),1061.12,1
+CUST02904,0.5898,MEDIUM,tenure_months (impact: +0.67),device_type_Smart TV (impact: +0.47),country_UK (impact: +0.38),2294.29,0
+CUST00289,0.5858,MEDIUM,watch_hours_per_week (impact: +1.17),device_type_Tablet (impact: +0.37),preferred_genre_Drama (impact: +0.31),741.78,0
+CUST03669,0.5853,MEDIUM,preferred_genre_Documentary (impact: +0.79),country_Singapore (impact: +0.54),device_type_Tablet (impact: +0.41),3313.51,0
+CUST00439,0.584,MEDIUM,watch_hours_per_week (impact: +1.21),country_USA (impact: +0.42),device_type_Tablet (impact: +0.35),3944.42,0
+CUST04965,0.5819,MEDIUM,tenure_months (impact: +0.59),preferred_genre_Romance (impact: +0.38),payment_method_Debit Card (impact: +0.31),1251.68,1
+CUST04171,0.5813,MEDIUM,device_type_Smart TV (impact: +0.52),preferred_genre_Kids (impact: +0.27),age (impact: +0.23),8698.9,0
+CUST02058,0.5812,MEDIUM,friction_score (impact: +0.92),tenure_months (impact: +0.44),device_type_Smart TV (impact: +0.44),1253.96,0
+CUST03615,0.5799,MEDIUM,tenure_months (impact: +0.64),device_type_Smart TV (impact: +0.46),preferred_genre_Romance (impact: +0.29),1467.44,0
+CUST02985,0.5776,MEDIUM,preferred_genre_Documentary (impact: +0.69),device_type_Mobile (impact: +0.47),tenure_months (impact: +0.23),1849.28,1
+CUST03470,0.5764,MEDIUM,watch_hours_per_week (impact: +0.99),device_type_Tablet (impact: +0.34),preferred_genre_Kids (impact: +0.29),1770.43,0
+CUST03730,0.576,MEDIUM,tenure_months (impact: +0.58),device_type_Mobile (impact: +0.41),preferred_genre_Drama (impact: +0.34),2032.54,1
+CUST00953,0.5743,MEDIUM,watch_hours_per_week (impact: +1.03),tenure_months (impact: +0.53),device_type_Mobile (impact: +0.45),3741.18,0
+CUST02914,0.5729,MEDIUM,watch_hours_per_week (impact: +1.08),device_type_Smart TV (impact: +0.56),engagement_score (impact: +0.33),6820.73,0
+CUST00167,0.5708,MEDIUM,last_login_days_ago (impact: +0.83),device_type_Mobile (impact: +0.53),preferred_genre_Romance (impact: +0.49),4783.05,0
+CUST04577,0.5703,MEDIUM,watch_hours_per_week (impact: +1.58),country_Singapore (impact: +1.04),device_type_Mobile (impact: +0.36),2993.06,1
+CUST00354,0.5701,MEDIUM,tenure_months (impact: +0.68),device_type_Tablet (impact: +0.32),preferred_genre_Romance (impact: +0.28),598.87,0
+CUST03801,0.568,MEDIUM,friction_score (impact: +0.83),payment_failures_3m (impact: +0.67),device_type_Mobile (impact: +0.34),1289.67,1
+CUST03349,0.5671,MEDIUM,watch_hours_per_week (impact: +1.10),preferred_genre_Thriller (impact: +0.39),device_type_Mobile (impact: +0.37),12453.11,1
+CUST01549,0.5669,MEDIUM,tenure_months (impact: +0.49),device_type_Mobile (impact: +0.42),watch_hours_per_week (impact: +0.33),2076.05,0
+CUST02567,0.5665,MEDIUM,friction_score (impact: +0.70),device_type_Smart TV (impact: +0.42),watch_hours_per_week (impact: +0.36),1639.1,0
+CUST04279,0.5661,MEDIUM,watch_hours_per_week (impact: +1.27),device_type_Smart TV (impact: +0.54),preferred_genre_Drama (impact: +0.41),2763.1,1
+CUST01237,0.5654,MEDIUM,preferred_genre_Documentary (impact: +0.66),friction_score (impact: +0.54),device_type_Tablet (impact: +0.28),1383.87,1
+CUST03483,0.5644,MEDIUM,watch_hours_per_week (impact: +1.23),device_type_Mobile (impact: +0.41),tenure_months (impact: +0.34),1300.15,1
+CUST02607,0.5642,MEDIUM,friction_score (impact: +0.91),device_type_Smart TV (impact: +0.47),age (impact: +0.32),7176.19,1
+CUST01014,0.5637,MEDIUM,friction_score (impact: +0.82),payment_method_Wallet (impact: +0.17),preferred_genre_Kids (impact: +0.14),2083.8,0
+CUST03601,0.5621,MEDIUM,watch_hours_per_week (impact: +1.47),device_type_Mobile (impact: +0.58),payment_method_Debit Card (impact: +0.39),3277.87,1
+CUST02540,0.561,MEDIUM,tenure_months (impact: +2.13),gender_Other (impact: +0.16),payment_method_Wallet (impact: +0.10),1314.36,1
+CUST02663,0.5579,MEDIUM,device_type_Smart TV (impact: +0.46),preferred_genre_Drama (impact: +0.39),watch_hours_per_week (impact: +0.29),1985.39,0
+CUST02558,0.5572,MEDIUM,country_Singapore (impact: +0.96),device_type_Tablet (impact: +0.36),watch_hours_per_week (impact: +0.36),969.39,0
+CUST03926,0.5482,MEDIUM,age (impact: +0.29),preferred_genre_Comedy (impact: +0.27),gender_Male (impact: +0.26),6136.68,1
+CUST01329,0.5473,MEDIUM,watch_hours_per_week (impact: +1.02),preferred_genre_Thriller (impact: +0.42),engagement_score (impact: +0.25),9042.03,1
+CUST00217,0.5449,MEDIUM,device_type_Tablet (impact: +0.59),friction_score (impact: +0.47),payment_method_Wallet (impact: +0.25),4541.93,0
+CUST01881,0.5447,MEDIUM,friction_score (impact: +0.91),preferred_genre_Thriller (impact: +0.34),engagement_score (impact: +0.31),4801.6,0
+CUST04001,0.5441,MEDIUM,logins_last_30_days (impact: +0.68),device_type_Mobile (impact: +0.65),preferred_genre_Thriller (impact: +0.50),2993.79,1
+CUST02881,0.5434,MEDIUM,tenure_months (impact: +0.43),device_type_Mobile (impact: +0.42),preferred_genre_Drama (impact: +0.23),636.01,0
+CUST03137,0.5426,MEDIUM,tenure_months (impact: +0.60),device_type_Smart TV (impact: +0.44),friction_score (impact: +0.43),546.16,1
+CUST03929,0.5421,MEDIUM,friction_score (impact: +0.69),country_Singapore (impact: +0.61),device_type_Smart TV (impact: +0.37),2927.0,1
+CUST02132,0.5399,MEDIUM,gender_Male (impact: +0.36),logins_last_30_days (impact: +0.33),preferred_genre_Comedy (impact: +0.31),640.95,0
+CUST01509,0.5392,MEDIUM,tenure_months (impact: +0.88),preferred_genre_Documentary (impact: +0.41),payment_method_UPI (impact: +0.20),550.14,0
+CUST02675,0.538,MEDIUM,friction_score (impact: +0.91),device_type_Smart TV (impact: +0.40),preferred_genre_Thriller (impact: +0.37),2075.06,1
+CUST03141,0.5371,MEDIUM,preferred_genre_Comedy (impact: +0.45),device_type_Tablet (impact: +0.43),last_login_days_ago (impact: +0.35),8137.36,0
+CUST03221,0.5353,MEDIUM,tenure_months (impact: +0.67),preferred_genre_Documentary (impact: +0.51),device_type_Mobile (impact: +0.44),554.88,1
+CUST00160,0.5329,MEDIUM,watch_hours_per_week (impact: +0.81),tenure_months (impact: +0.68),device_type_Smart TV (impact: +0.59),557.71,1
+CUST00973,0.5322,MEDIUM,friction_score (impact: +0.72),device_type_Smart TV (impact: +0.69),tenure_months (impact: +0.20),5606.46,1
+CUST02660,0.5295,MEDIUM,friction_score (impact: +0.90),device_type_Mobile (impact: +0.40),payment_failures_3m (impact: +0.31),6014.52,1
+CUST02026,0.5286,MEDIUM,engagement_score (impact: +0.55),preferred_genre_Romance (impact: +0.28),gender_Male (impact: +0.20),3766.52,0
+CUST04076,0.5283,MEDIUM,watch_hours_per_week (impact: +1.06),preferred_genre_Romance (impact: +0.52),engagement_score (impact: +0.22),4412.13,1
+CUST00465,0.5276,MEDIUM,friction_score (impact: +0.64),device_type_Mobile (impact: +0.44),payment_method_Debit Card (impact: +0.32),5656.98,1
+CUST03472,0.5249,MEDIUM,device_type_Smart TV (impact: +0.43),gender_Male (impact: +0.29),last_login_days_ago (impact: +0.19),1607.16,1
+CUST04266,0.5243,MEDIUM,last_login_days_ago (impact: +1.08),device_type_Mobile (impact: +0.42),payment_method_Wallet (impact: +0.22),4035.24,1
+CUST00175,0.5228,MEDIUM,preferred_genre_Documentary (impact: +0.74),device_type_Tablet (impact: +0.36),payment_failures_3m (impact: +0.31),14106.45,0
+CUST01160,0.52,MEDIUM,device_type_Mobile (impact: +0.39),preferred_genre_Drama (impact: +0.34),payment_failures_3m (impact: +0.30),2865.6,1
+CUST01362,0.5185,MEDIUM,friction_score (impact: +0.66),device_type_Smart TV (impact: +0.56),age (impact: +0.27),9232.92,0
+CUST02335,0.5182,MEDIUM,engagement_score (impact: +0.53),device_type_Mobile (impact: +0.45),gender_Male (impact: +0.23),4567.91,0
+CUST01059,0.5181,MEDIUM,device_type_Mobile (impact: +0.60),preferred_genre_Thriller (impact: +0.45),gender_Male (impact: +0.26),4328.63,1
+CUST00422,0.5139,MEDIUM,last_login_days_ago (impact: +0.89),payment_failures_3m (impact: +0.58),country_UK (impact: +0.49),6791.83,1
+CUST03953,0.5106,MEDIUM,friction_score (impact: +0.79),device_type_Tablet (impact: +0.29),tenure_months (impact: +0.26),3910.04,0
+CUST04429,0.5103,MEDIUM,last_login_days_ago (impact: +0.95),preferred_genre_Romance (impact: +0.43),friction_score (impact: +0.43),16860.13,1
+CUST01027,0.5103,MEDIUM,device_type_Mobile (impact: +0.56),logins_last_30_days (impact: +0.53),last_login_days_ago (impact: +0.38),1948.82,0
+CUST01433,0.5089,MEDIUM,preferred_genre_Documentary (impact: +0.50),friction_score (impact: +0.44),tenure_months (impact: +0.44),1715.53,1
+CUST01324,0.5086,MEDIUM,friction_score (impact: +0.63),payment_failures_3m (impact: +0.50),preferred_genre_Romance (impact: +0.27),1173.4,1
+CUST02944,0.5076,MEDIUM,friction_score (impact: +0.48),device_type_Mobile (impact: +0.48),preferred_genre_Documentary (impact: +0.41),2253.78,0
+CUST03196,0.5075,MEDIUM,payment_failures_3m (impact: +0.61),friction_score (impact: +0.52),tenure_months (impact: +0.28),588.03,1
+CUST00418,0.5071,MEDIUM,device_type_Tablet (impact: +0.33),gender_Male (impact: +0.22),preferred_genre_Thriller (impact: +0.20),2459.43,0
+CUST04860,0.5042,MEDIUM,country_Singapore (impact: +1.00),device_type_Mobile (impact: +0.32),payment_method_UPI (impact: +0.21),5937.39,0
+CUST02257,0.5034,MEDIUM,friction_score (impact: +0.71),payment_failures_3m (impact: +0.62),preferred_genre_Thriller (impact: +0.45),3964.64,1
+CUST04412,0.503,MEDIUM,friction_score (impact: +0.57),preferred_genre_Drama (impact: +0.39),device_type_Mobile (impact: +0.39),4648.23,0
+CUST01380,0.5023,MEDIUM,watch_hours_per_week (impact: +1.08),device_type_Smart TV (impact: +0.43),preferred_genre_Documentary (impact: +0.21),3169.53,0
+CUST03682,0.4995,MEDIUM,country_USA (impact: +0.55),device_type_Tablet (impact: +0.44),tenure_months (impact: +0.43),597.56,1
+CUST01425,0.4992,MEDIUM,device_type_Mobile (impact: +0.55),preferred_genre_Thriller (impact: +0.38),payment_method_Debit Card (impact: +0.24),2092.64,0
+CUST03609,0.4983,MEDIUM,device_type_Smart TV (impact: +0.59),preferred_genre_Thriller (impact: +0.30),age (impact: +0.26),7615.93,0
+CUST04046,0.4966,MEDIUM,watch_hours_per_week (impact: +1.50),country_UK (impact: +0.34),preferred_genre_Romance (impact: +0.25),5777.67,1
+CUST02827,0.4956,MEDIUM,country_USA (impact: +0.59),preferred_genre_Documentary (impact: +0.59),device_type_Tablet (impact: +0.30),7657.31,0
+CUST00429,0.4945,MEDIUM,country_UK (impact: +0.67),device_type_Smart TV (impact: +0.46),preferred_genre_Documentary (impact: +0.38),2774.75,0
+CUST04437,0.4944,MEDIUM,friction_score (impact: +0.77),payment_failures_3m (impact: +0.52),device_type_Tablet (impact: +0.33),8483.53,1
+CUST02188,0.4926,MEDIUM,watch_hours_per_week (impact: +1.14),device_type_Smart TV (impact: +0.50),tenure_months (impact: +0.37),5823.53,1
+CUST04823,0.4906,MEDIUM,preferred_genre_Drama (impact: +0.30),gender_Other (impact: +0.24),num_profiles (impact: +0.20),3142.18,0
+CUST04294,0.4879,MEDIUM,preferred_genre_Drama (impact: +0.35),gender_Male (impact: +0.21),watch_hours_per_week (impact: +0.19),6137.45,1
+CUST04829,0.4874,MEDIUM,preferred_genre_Romance (impact: +0.39),payment_method_Debit Card (impact: +0.34),tenure_months (impact: +0.23),4859.9,0
+CUST04738,0.4866,MEDIUM,tenure_months (impact: +0.51),friction_score (impact: +0.45),preferred_genre_Comedy (impact: +0.25),4101.81,1
+CUST04431,0.4856,MEDIUM,watch_hours_per_week (impact: +1.47),device_type_Smart TV (impact: +0.49),preferred_genre_Thriller (impact: +0.37),18479.98,1
+CUST01778,0.4848,MEDIUM,watch_hours_per_week (impact: +0.94),device_type_Smart TV (impact: +0.49),preferred_genre_Thriller (impact: +0.22),5536.8,1
+CUST01413,0.4844,MEDIUM,device_type_Mobile (impact: +0.43),preferred_genre_Drama (impact: +0.31),payment_method_Wallet (impact: +0.19),1026.08,0
+CUST01474,0.484,MEDIUM,friction_score (impact: +0.75),device_type_Smart TV (impact: +0.36),support_tickets (impact: +0.33),3298.0,1
+CUST01125,0.4836,MEDIUM,device_type_Tablet (impact: +0.34),preferred_genre_Documentary (impact: +0.33),payment_method_Debit Card (impact: +0.20),4380.21,1
+CUST00042,0.4821,MEDIUM,watch_hours_per_week (impact: +0.94),device_type_Mobile (impact: +0.49),preferred_genre_Thriller (impact: +0.41),5049.89,1
+CUST04783,0.4818,MEDIUM,friction_score (impact: +0.91),payment_failures_3m (impact: +0.68),device_type_Mobile (impact: +0.42),10351.21,0
+CUST02269,0.4815,MEDIUM,country_USA (impact: +0.67),preferred_genre_Kids (impact: +0.38),friction_score (impact: +0.31),15328.33,1
+CUST04299,0.4795,MEDIUM,friction_score (impact: +0.93),payment_method_Debit Card (impact: +0.27),preferred_genre_Romance (impact: +0.23),2796.51,0
+CUST02114,0.4794,MEDIUM,friction_score (impact: +0.54),payment_failures_3m (impact: +0.51),device_type_Mobile (impact: +0.42),4676.0,0
+CUST03832,0.4789,MEDIUM,watch_hours_per_week (impact: +1.20),device_type_Mobile (impact: +0.50),preferred_genre_Drama (impact: +0.27),3640.19,0
+CUST03807,0.4768,MEDIUM,friction_score (impact: +0.52),device_type_Mobile (impact: +0.41),preferred_genre_Comedy (impact: +0.25),18798.56,0
+CUST00093,0.4765,MEDIUM,device_type_Smart TV (impact: +0.44),gender_Male (impact: +0.28),watch_hours_per_week (impact: +0.22),2873.26,0
+CUST00732,0.4754,MEDIUM,device_type_Mobile (impact: +0.44),payment_method_UPI (impact: +0.25),gender_Male (impact: +0.25),4711.79,1
+CUST02939,0.4749,MEDIUM,device_type_Mobile (impact: +0.41),preferred_genre_Drama (impact: +0.32),payment_method_UPI (impact: +0.21),9649.9,0
+CUST04483,0.473,MEDIUM,device_type_Mobile (impact: +0.59),preferred_genre_Thriller (impact: +0.41),payment_method_Debit Card (impact: +0.21),3145.99,0
+CUST00850,0.4711,MEDIUM,device_type_Mobile (impact: +0.46),preferred_genre_Documentary (impact: +0.43),tenure_months (impact: +0.26),5014.85,0
+CUST04548,0.471,MEDIUM,friction_score (impact: +0.45),preferred_genre_Documentary (impact: +0.43),device_type_Tablet (impact: +0.28),2210.85,1
+CUST00089,0.4692,MEDIUM,preferred_genre_Documentary (impact: +0.71),gender_Other (impact: +0.30),device_type_Tablet (impact: +0.28),2535.02,1
+CUST02592,0.4683,MEDIUM,watch_hours_per_week (impact: +0.68),engagement_score (impact: +0.62),device_type_Mobile (impact: +0.38),7693.88,1
+CUST04499,0.4658,MEDIUM,watch_hours_per_week (impact: +0.93),device_type_Smart TV (impact: +0.41),preferred_genre_Documentary (impact: +0.40),9597.1,1
+CUST02818,0.4632,MEDIUM,tenure_months (impact: +0.41),device_type_Smart TV (impact: +0.40),preferred_genre_Thriller (impact: +0.35),747.8,1
+CUST01587,0.4615,MEDIUM,device_type_Mobile (impact: +0.56),preferred_genre_Romance (impact: +0.23),payment_method_Wallet (impact: +0.19),1714.59,1
+CUST01639,0.4581,MEDIUM,device_type_Smart TV (impact: +0.34),payment_failures_3m (impact: +0.33),num_profiles (impact: +0.24),3666.23,0
+CUST02639,0.4575,MEDIUM,preferred_genre_Documentary (impact: +0.58),device_type_Mobile (impact: +0.56),tenure_months (impact: +0.23),2051.02,0
+CUST02174,0.4562,MEDIUM,friction_score (impact: +0.44),device_type_Smart TV (impact: +0.38),preferred_genre_Thriller (impact: +0.30),23463.1,0
+CUST03228,0.4519,MEDIUM,preferred_genre_Drama (impact: +0.44),device_type_Mobile (impact: +0.34),payment_method_UPI (impact: +0.19),7111.52,0
+CUST02310,0.4511,MEDIUM,device_type_Mobile (impact: +0.44),payment_method_UPI (impact: +0.21),payment_failures_3m (impact: +0.20),3560.49,1
+CUST02001,0.451,MEDIUM,friction_score (impact: +1.05),support_tickets (impact: +0.66),device_type_Smart TV (impact: +0.32),3496.14,0
+CUST03134,0.4487,MEDIUM,tenure_months (impact: +0.60),device_type_Mobile (impact: +0.38),preferred_genre_Comedy (impact: +0.26),1650.61,1
+CUST00060,0.4448,MEDIUM,device_type_Mobile (impact: +0.47),payment_method_Wallet (impact: +0.24),gender_Male (impact: +0.20),2651.64,0
+CUST01473,0.4447,MEDIUM,tenure_months (impact: +0.51),device_type_Smart TV (impact: +0.41),num_profiles (impact: +0.19),1662.61,1
+CUST01068,0.4442,MEDIUM,payment_method_Wallet (impact: +0.26),logins_last_30_days (impact: +0.23),gender_Male (impact: +0.20),6101.06,1
+CUST03282,0.4403,MEDIUM,watch_hours_per_week (impact: +1.16),device_type_Mobile (impact: +0.37),tenure_months (impact: +0.26),1675.66,0
+CUST01774,0.4398,MEDIUM,preferred_genre_Documentary (impact: +0.65),device_type_Smart TV (impact: +0.52),tenure_months (impact: +0.41),1226.32,0
+CUST03458,0.4397,MEDIUM,preferred_genre_Documentary (impact: +0.66),tenure_months (impact: +0.60),country_UAE (impact: +0.21),1677.53,1
+CUST01568,0.4396,MEDIUM,device_type_Smart TV (impact: +0.54),preferred_genre_Romance (impact: +0.35),logins_last_30_days (impact: +0.14),4194.62,1
+CUST03850,0.4384,MEDIUM,preferred_genre_Romance (impact: +0.37),device_type_Mobile (impact: +0.35),payment_method_Debit Card (impact: +0.34),15705.86,1
+CUST00629,0.4334,MEDIUM,friction_score (impact: +0.78),preferred_genre_Documentary (impact: +0.48),payment_failures_3m (impact: +0.35),10461.98,1
+CUST01511,0.433,MEDIUM,friction_score (impact: +0.79),device_type_Smart TV (impact: +0.40),payment_failures_3m (impact: +0.34),8771.2,0
+CUST01076,0.4326,MEDIUM,device_type_Tablet (impact: +0.65),preferred_genre_Drama (impact: +0.22),payment_failures_3m (impact: +0.19),3626.7,0
+CUST03759,0.43,MEDIUM,watch_hours_per_week (impact: +1.15),device_type_Smart TV (impact: +0.54),engagement_score (impact: +0.30),15358.75,1
+CUST04630,0.4295,MEDIUM,preferred_genre_Documentary (impact: +0.54),country_UK (impact: +0.48),device_type_Tablet (impact: +0.30),3131.62,1
+CUST03588,0.4292,MEDIUM,preferred_genre_Documentary (impact: +0.55),device_type_Tablet (impact: +0.46),payment_method_UPI (impact: +0.26),4316.46,0
+CUST04757,0.4282,MEDIUM,friction_score (impact: +0.58),country_Singapore (impact: +0.48),preferred_genre_Thriller (impact: +0.38),796.58,1
+CUST01996,0.4271,MEDIUM,preferred_genre_Drama (impact: +0.31),payment_method_Wallet (impact: +0.25),device_type_Tablet (impact: +0.23),2280.18,1
+CUST02111,0.4264,MEDIUM,logins_last_30_days (impact: +0.73),age (impact: +0.25),payment_method_UPI (impact: +0.25),1027.25,0
+CUST01772,0.4258,MEDIUM,preferred_genre_Documentary (impact: +0.51),friction_score (impact: +0.42),device_type_Tablet (impact: +0.35),7735.97,0
+CUST00397,0.4245,MEDIUM,device_type_Smart TV (impact: +0.57),preferred_genre_Drama (impact: +0.33),watch_hours_per_week (impact: +0.26),1603.21,0
+CUST04298,0.4229,MEDIUM,watch_hours_per_week (impact: +0.97),country_UK (impact: +0.23),device_type_Tablet (impact: +0.21),2641.51,1
+CUST02636,0.4227,MEDIUM,device_type_Tablet (impact: +0.45),preferred_genre_Documentary (impact: +0.41),age (impact: +0.20),16144.07,0
+CUST04222,0.4227,MEDIUM,watch_hours_per_week (impact: +1.26),device_type_Smart TV (impact: +0.37),preferred_genre_Thriller (impact: +0.31),14115.96,1
+CUST03473,0.4221,MEDIUM,device_type_Smart TV (impact: +0.64),tenure_months (impact: +0.46),preferred_genre_Thriller (impact: +0.27),1730.21,0
+CUST01742,0.4212,MEDIUM,device_type_Mobile (impact: +0.58),preferred_genre_Romance (impact: +0.55),payment_method_Wallet (impact: +0.22),2888.09,0
+CUST03344,0.4206,MEDIUM,watch_hours_per_week (impact: +0.95),country_USA (impact: +0.57),device_type_Smart TV (impact: +0.53),3458.81,0
+CUST02239,0.4206,MEDIUM,device_type_Tablet (impact: +0.43),gender_Male (impact: +0.23),payment_method_Debit Card (impact: +0.21),3228.69,0
+CUST01318,0.4202,MEDIUM,friction_score (impact: +0.51),tenure_months (impact: +0.47),payment_failures_3m (impact: +0.34),2779.58,1
+CUST02483,0.419,MEDIUM,country_Singapore (impact: +0.72),device_type_Smart TV (impact: +0.34),logins_last_30_days (impact: +0.33),924.92,0
+CUST04102,0.4179,MEDIUM,preferred_genre_Documentary (impact: +0.59),tenure_months (impact: +0.47),logins_last_30_days (impact: +0.25),695.03,0
+CUST02382,0.4179,MEDIUM,age (impact: +0.40),watch_hours_per_week (impact: +0.38),payment_method_UPI (impact: +0.30),1621.59,1
+CUST03603,0.415,MEDIUM,device_type_Smart TV (impact: +0.56),preferred_genre_Documentary (impact: +0.47),watch_hours_per_week (impact: +0.26),6421.59,1
+CUST02581,0.4144,MEDIUM,friction_score (impact: +0.90),device_type_Mobile (impact: +0.44),preferred_genre_Kids (impact: +0.23),3729.21,0
+CUST03920,0.4144,MEDIUM,country_UK (impact: +0.57),preferred_genre_Documentary (impact: +0.42),device_type_Smart TV (impact: +0.35),2213.97,1
+CUST00971,0.412,MEDIUM,watch_hours_per_week (impact: +1.52),device_type_Smart TV (impact: +0.50),payment_method_Wallet (impact: +0.16),7488.38,1
+CUST04824,0.4117,MEDIUM,preferred_genre_Documentary (impact: +0.48),payment_method_Wallet (impact: +0.17),tenure_months (impact: +0.16),1638.9,1
+CUST02707,0.4105,MEDIUM,device_type_Smart TV (impact: +0.52),preferred_genre_Comedy (impact: +0.29),watch_hours_per_week (impact: +0.19),8949.09,1
+CUST00066,0.4101,MEDIUM,device_type_Tablet (impact: +0.27),payment_method_Debit Card (impact: +0.21),age (impact: +0.21),5298.56,1
+CUST02817,0.4078,MEDIUM,device_type_Smart TV (impact: +0.55),preferred_genre_Romance (impact: +0.34),country_UAE (impact: +0.28),17505.78,0
+CUST02953,0.4071,MEDIUM,tenure_months (impact: +0.65),device_type_Tablet (impact: +0.36),payment_method_Debit Card (impact: +0.26),2070.93,0
+CUST03034,0.4069,MEDIUM,device_type_Smart TV (impact: +0.34),preferred_genre_Drama (impact: +0.33),gender_Other (impact: +0.21),2478.56,0
+CUST01164,0.4062,MEDIUM,watch_hours_per_week (impact: +0.95),preferred_genre_Romance (impact: +0.39),device_type_Mobile (impact: +0.32),15110.9,1
+CUST01830,0.406,MEDIUM,device_type_Tablet (impact: +0.51),preferred_genre_Romance (impact: +0.42),gender_Male (impact: +0.20),19931.97,1
+CUST03889,0.4046,MEDIUM,preferred_genre_Drama (impact: +0.25),payment_method_Debit Card (impact: +0.22),friction_score (impact: +0.20),2376.64,1
+CUST03313,0.4032,MEDIUM,device_type_Smart TV (impact: +0.54),preferred_genre_Comedy (impact: +0.38),tenure_months (impact: +0.29),2084.47,0
+CUST01169,0.4012,MEDIUM,device_type_Tablet (impact: +0.45),preferred_genre_Comedy (impact: +0.29),last_login_days_ago (impact: +0.15),3098.28,1
+CUST00691,0.4002,MEDIUM,friction_score (impact: +0.77),payment_failures_3m (impact: +0.76),device_type_Tablet (impact: +0.31),21548.57,1
+CUST02155,0.398,LOW,watch_hours_per_week (impact: +0.93),preferred_genre_Romance (impact: +0.56),device_type_Smart TV (impact: +0.56),5989.75,0
+CUST01836,0.3973,LOW,device_type_Smart TV (impact: +0.39),age (impact: +0.20),payment_method_UPI (impact: +0.19),9149.71,1
+CUST02937,0.3969,LOW,device_type_Mobile (impact: +0.46),tenure_months (impact: +0.45),watch_hours_per_week (impact: +0.24),2891.32,1
+CUST01158,0.3957,LOW,preferred_genre_Documentary (impact: +0.60),country_UK (impact: +0.57),device_type_Smart TV (impact: +0.40),5411.22,0
+CUST03488,0.394,LOW,device_type_Tablet (impact: +0.40),preferred_genre_Comedy (impact: +0.35),last_login_days_ago (impact: +0.20),4703.48,1
+CUST04274,0.393,LOW,country_Singapore (impact: +0.83),device_type_Smart TV (impact: +0.48),preferred_genre_Thriller (impact: +0.34),34921.84,0
+CUST00962,0.3923,LOW,device_type_Smart TV (impact: +0.45),preferred_genre_Thriller (impact: +0.31),last_login_days_ago (impact: +0.22),3638.67,0
+CUST04010,0.3922,LOW,device_type_Tablet (impact: +0.37),preferred_genre_Comedy (impact: +0.31),engagement_score (impact: +0.25),2539.92,1
+CUST04564,0.392,LOW,device_type_Tablet (impact: +0.59),engagement_score (impact: +0.24),watch_hours_per_week (impact: +0.22),10619.32,1
+CUST03104,0.392,LOW,watch_hours_per_week (impact: +1.17),age (impact: +0.31),engagement_score (impact: +0.29),7380.0,0
+CUST01061,0.3918,LOW,country_USA (impact: +0.72),device_type_Mobile (impact: +0.48),preferred_genre_Comedy (impact: +0.34),7775.2,0
+CUST00547,0.3914,LOW,last_login_days_ago (impact: +0.81),device_type_Smart TV (impact: +0.48),friction_score (impact: +0.39),13130.39,0
+CUST01985,0.3913,LOW,friction_score (impact: +0.80),device_type_Mobile (impact: +0.44),preferred_genre_Comedy (impact: +0.21),5572.38,1
+CUST00684,0.3893,LOW,device_type_Mobile (impact: +0.44),gender_Male (impact: +0.23),preferred_genre_Kids (impact: +0.17),1215.24,0
+CUST01038,0.3888,LOW,tenure_months (impact: +0.48),device_type_Mobile (impact: +0.36),preferred_genre_Drama (impact: +0.34),729.72,1
+CUST02445,0.3883,LOW,payment_failures_3m (impact: +0.76),friction_score (impact: +0.71),country_UK (impact: +0.42),9767.58,0
+CUST01113,0.388,LOW,device_type_Mobile (impact: +0.54),preferred_genre_Thriller (impact: +0.43),age (impact: +0.25),12520.1,0
+CUST04862,0.3876,LOW,device_type_Mobile (impact: +0.43),country_UAE (impact: +0.26),payment_method_Wallet (impact: +0.23),3425.19,0
+CUST02902,0.3866,LOW,device_type_Mobile (impact: +0.45),preferred_genre_Comedy (impact: +0.30),age (impact: +0.20),1464.86,0
+CUST03606,0.3847,LOW,device_type_Tablet (impact: +0.38),payment_method_Debit Card (impact: +0.23),preferred_genre_Kids (impact: +0.19),4298.77,1
+CUST04635,0.3846,LOW,device_type_Tablet (impact: +0.51),preferred_genre_Romance (impact: +0.37),num_profiles (impact: +0.26),2939.13,0
+CUST03888,0.3843,LOW,tenure_months (impact: +0.60),device_type_Smart TV (impact: +0.39),watch_hours_per_week (impact: +0.17),1843.28,1
+CUST03117,0.3837,LOW,device_type_Mobile (impact: +0.41),preferred_genre_Thriller (impact: +0.40),payment_method_UPI (impact: +0.22),3075.28,1
+CUST04183,0.383,LOW,friction_score (impact: +0.72),payment_failures_3m (impact: +0.47),preferred_genre_Documentary (impact: +0.40),9852.84,0
+CUST00249,0.3829,LOW,device_type_Tablet (impact: +0.58),logins_last_30_days (impact: +0.54),preferred_genre_Romance (impact: +0.38),15089.69,0
+CUST04858,0.3829,LOW,watch_hours_per_week (impact: +1.41),device_type_Smart TV (impact: +0.38),preferred_genre_Thriller (impact: +0.23),8622.33,0
+CUST03295,0.3818,LOW,device_type_Tablet (impact: +0.44),preferred_genre_Thriller (impact: +0.38),payment_failures_3m (impact: +0.24),7711.93,1
+CUST02957,0.3816,LOW,device_type_Tablet (impact: +0.50),preferred_genre_Comedy (impact: +0.42),last_login_days_ago (impact: +0.37),4937.23,1
+CUST03067,0.3811,LOW,country_Singapore (impact: +0.61),device_type_Smart TV (impact: +0.54),preferred_genre_Documentary (impact: +0.42),1724.26,0
+CUST02098,0.3809,LOW,country_Singapore (impact: +0.85),logins_last_30_days (impact: +0.51),preferred_genre_Kids (impact: +0.34),14519.79,0
+CUST04425,0.3799,LOW,preferred_genre_Romance (impact: +0.45),num_profiles (impact: +0.23),logins_last_30_days (impact: +0.19),6188.38,1
+CUST01546,0.3773,LOW,preferred_genre_Romance (impact: +0.46),payment_method_Debit Card (impact: +0.31),tenure_months (impact: +0.20),7960.06,0
+CUST02763,0.3765,LOW,preferred_genre_Documentary (impact: +0.62),device_type_Mobile (impact: +0.54),tenure_months (impact: +0.22),4355.94,0
+CUST02588,0.3765,LOW,friction_score (impact: +0.48),payment_method_UPI (impact: +0.21),num_profiles (impact: +0.15),992.62,0
+CUST04506,0.3754,LOW,device_type_Mobile (impact: +0.43),gender_Male (impact: +0.29),payment_method_Wallet (impact: +0.19),4051.52,0
+CUST00091,0.375,LOW,watch_hours_per_week (impact: +0.95),device_type_Mobile (impact: +0.44),last_login_days_ago (impact: +0.24),3606.83,1
+CUST03726,0.3742,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Kids (impact: +0.29),payment_method_UPI (impact: +0.27),2739.64,0
+CUST01456,0.374,LOW,device_type_Smart TV (impact: +0.64),watch_hours_per_week (impact: +0.33),num_profiles (impact: +0.14),15006.23,0
+CUST01199,0.3737,LOW,tenure_months (impact: +0.49),preferred_genre_Comedy (impact: +0.20),payment_method_Wallet (impact: +0.19),3002.54,0
+CUST01927,0.3735,LOW,device_type_Mobile (impact: +0.36),preferred_genre_Romance (impact: +0.33),gender_Male (impact: +0.26),27032.22,0
+CUST04957,0.3729,LOW,device_type_Tablet (impact: +0.51),preferred_genre_Documentary (impact: +0.36),watch_hours_per_week (impact: +0.34),17036.63,0
+CUST03237,0.3727,LOW,device_type_Mobile (impact: +0.43),gender_Other (impact: +0.20),preferred_genre_Comedy (impact: +0.19),3756.13,0
+CUST01709,0.3709,LOW,device_type_Mobile (impact: +0.42),preferred_genre_Romance (impact: +0.24),watch_hours_per_week (impact: +0.22),2128.13,0
+CUST00583,0.3689,LOW,friction_score (impact: +0.60),payment_method_UPI (impact: +0.22),payment_failures_3m (impact: +0.19),11598.5,0
+CUST00831,0.3685,LOW,device_type_Tablet (impact: +0.41),preferred_genre_Kids (impact: +0.36),logins_last_30_days (impact: +0.34),22199.3,0
+CUST02148,0.3683,LOW,friction_score (impact: +1.05),support_tickets (impact: +0.49),payment_method_UPI (impact: +0.17),8579.91,1
+CUST04503,0.3682,LOW,preferred_genre_Thriller (impact: +0.46),gender_Other (impact: +0.23),last_login_days_ago (impact: +0.17),9086.39,0
+CUST03910,0.3677,LOW,country_UK (impact: +0.44),engagement_score (impact: +0.29),age (impact: +0.25),3648.93,0
+CUST04095,0.3672,LOW,friction_score (impact: +0.65),payment_failures_3m (impact: +0.57),device_type_Smart TV (impact: +0.42),5037.38,1
+CUST01481,0.3657,LOW,device_type_Mobile (impact: +0.54),preferred_genre_Romance (impact: +0.51),last_login_days_ago (impact: +0.24),2532.03,0
+CUST00861,0.3653,LOW,watch_hours_per_week (impact: +1.33),device_type_Tablet (impact: +0.49),country_UAE (impact: +0.20),32960.58,0
+CUST00081,0.3624,LOW,preferred_genre_Documentary (impact: +0.70),gender_Other (impact: +0.28),tenure_months (impact: +0.17),2545.24,0
+CUST02375,0.3561,LOW,device_type_Smart TV (impact: +0.48),preferred_genre_Drama (impact: +0.31),payment_method_UPI (impact: +0.17),1281.46,0
+CUST04699,0.3547,LOW,tenure_months (impact: +0.83),watch_hours_per_week (impact: +0.31),preferred_genre_Thriller (impact: +0.28),1931.91,0
+CUST02850,0.3544,LOW,device_type_Smart TV (impact: +0.52),engagement_score (impact: +0.37),preferred_genre_Thriller (impact: +0.29),1156.19,0
+CUST04106,0.3535,LOW,friction_score (impact: +0.77),watch_hours_per_week (impact: +0.17),country_India (impact: +0.09),4374.02,1
+CUST03050,0.3524,LOW,friction_score (impact: +0.61),device_type_Smart TV (impact: +0.36),payment_method_Debit Card (impact: +0.24),3995.17,0
+CUST01843,0.3509,LOW,friction_score (impact: +0.54),device_type_Smart TV (impact: +0.36),preferred_genre_Thriller (impact: +0.27),11337.22,0
+CUST00182,0.3501,LOW,device_type_Tablet (impact: +0.50),preferred_genre_Romance (impact: +0.24),payment_method_Wallet (impact: +0.20),5513.48,0
+CUST02918,0.3494,LOW,device_type_Smart TV (impact: +0.55),preferred_genre_Drama (impact: +0.39),payment_method_Debit Card (impact: +0.24),10389.05,0
+CUST02110,0.3486,LOW,last_login_days_ago (impact: +1.44),age (impact: +0.26),payment_method_UPI (impact: +0.17),18216.6,0
+CUST04457,0.3477,LOW,device_type_Tablet (impact: +0.33),preferred_genre_Kids (impact: +0.30),gender_Other (impact: +0.26),2985.49,0
+CUST02910,0.3465,LOW,device_type_Tablet (impact: +0.37),payment_method_Wallet (impact: +0.22),num_profiles (impact: +0.10),1560.58,0
+CUST04011,0.3455,LOW,device_type_Mobile (impact: +0.46),preferred_genre_Comedy (impact: +0.22),tenure_months (impact: +0.19),2865.59,0
+CUST02456,0.3446,LOW,watch_hours_per_week (impact: +1.13),preferred_genre_Drama (impact: +0.25),payment_method_Wallet (impact: +0.21),15044.82,1
+CUST01944,0.3424,LOW,watch_hours_per_week (impact: +1.18),device_type_Smart TV (impact: +0.40),preferred_genre_Comedy (impact: +0.31),14185.49,1
+CUST00882,0.342,LOW,payment_failures_3m (impact: +0.47),friction_score (impact: +0.36),device_type_Tablet (impact: +0.29),2749.96,1
+CUST04854,0.3418,LOW,device_type_Mobile (impact: +0.66),preferred_genre_Thriller (impact: +0.44),payment_method_UPI (impact: +0.30),2881.46,0
+CUST03904,0.3414,LOW,payment_method_Debit Card (impact: +0.30),preferred_genre_Drama (impact: +0.27),gender_Other (impact: +0.26),4600.98,0
+CUST00023,0.3392,LOW,tenure_months (impact: +0.81),device_type_Tablet (impact: +0.46),gender_Male (impact: +0.24),789.0,0
+CUST01337,0.339,LOW,preferred_genre_Documentary (impact: +0.44),tenure_months (impact: +0.13),gender_Male (impact: +0.13),3025.21,1
+CUST03363,0.3387,LOW,device_type_Mobile (impact: +0.55),preferred_genre_Drama (impact: +0.34),payment_method_UPI (impact: +0.19),2237.2,0
+CUST02577,0.3387,LOW,preferred_genre_Romance (impact: +0.53),friction_score (impact: +0.51),payment_method_Debit Card (impact: +0.21),19140.36,0
+CUST03045,0.3386,LOW,tenure_months (impact: +0.64),device_type_Smart TV (impact: +0.49),payment_method_UPI (impact: +0.16),789.66,0
+CUST00451,0.3385,LOW,payment_failures_3m (impact: +0.55),friction_score (impact: +0.52),payment_method_Debit Card (impact: +0.37),14271.35,0
+CUST00798,0.3364,LOW,friction_score (impact: +0.56),device_type_Mobile (impact: +0.42),preferred_genre_Romance (impact: +0.25),14316.1,1
+CUST00638,0.3351,LOW,device_type_Tablet (impact: +0.50),payment_method_Debit Card (impact: +0.21),age (impact: +0.19),3704.61,0
+CUST03825,0.3335,LOW,country_UK (impact: +0.31),tenure_months (impact: +0.28),payment_method_UPI (impact: +0.21),1326.41,0
+CUST01609,0.3335,LOW,device_type_Mobile (impact: +0.71),preferred_genre_Thriller (impact: +0.37),watch_hours_per_week (impact: +0.24),1591.59,0
+CUST00508,0.3333,LOW,last_login_days_ago (impact: +0.66),device_type_Mobile (impact: +0.39),friction_score (impact: +0.25),9981.13,1
+CUST04627,0.333,LOW,device_type_Tablet (impact: +0.51),watch_hours_per_week (impact: +0.34),preferred_genre_Thriller (impact: +0.26),23449.86,1
+CUST03107,0.333,LOW,preferred_genre_Documentary (impact: +0.66),device_type_Mobile (impact: +0.63),payment_method_UPI (impact: +0.30),2256.56,0
+CUST00616,0.3321,LOW,tenure_months (impact: +0.55),preferred_genre_Drama (impact: +0.30),device_type_Smart TV (impact: +0.28),797.5,1
+CUST01856,0.3321,LOW,device_type_Smart TV (impact: +0.46),age (impact: +0.33),payment_method_UPI (impact: +0.30),3999.42,0
+CUST03518,0.332,LOW,friction_score (impact: +0.53),device_type_Tablet (impact: +0.33),last_login_days_ago (impact: +0.22),4254.09,1
+CUST03402,0.33,LOW,device_type_Tablet (impact: +0.51),preferred_genre_Documentary (impact: +0.38),tenure_months (impact: +0.29),1066.63,1
+CUST02831,0.3296,LOW,tenure_months (impact: +0.52),device_type_Mobile (impact: +0.49),preferred_genre_Comedy (impact: +0.25),800.47,0
+CUST02378,0.3286,LOW,device_type_Smart TV (impact: +0.51),tenure_months (impact: +0.41),payment_method_UPI (impact: +0.30),1469.64,0
+CUST04396,0.3274,LOW,last_login_days_ago (impact: +0.87),device_type_Mobile (impact: +0.46),preferred_genre_Romance (impact: +0.43),1070.82,0
+CUST04176,0.3266,LOW,device_type_Tablet (impact: +0.48),logins_last_30_days (impact: +0.30),watch_hours_per_week (impact: +0.14),2680.24,1
+CUST00811,0.3259,LOW,preferred_genre_Comedy (impact: +0.19),payment_method_UPI (impact: +0.19),num_profiles (impact: +0.14),5718.73,0
+CUST01648,0.3255,LOW,tenure_months (impact: +1.68),device_type_Smart TV (impact: +0.48),country_India (impact: +0.09),3233.51,0
+CUST01578,0.3255,LOW,friction_score (impact: +0.88),payment_failures_3m (impact: +0.43),device_type_Smart TV (impact: +0.41),8078.17,1
+CUST04735,0.3252,LOW,preferred_genre_Comedy (impact: +0.32),country_UAE (impact: +0.26),payment_method_Wallet (impact: +0.24),4377.59,0
+CUST04959,0.3241,LOW,device_type_Smart TV (impact: +0.54),watch_hours_per_week (impact: +0.27),tenure_months (impact: +0.21),9181.1,0
+CUST04290,0.3237,LOW,country_USA (impact: +0.57),preferred_genre_Kids (impact: +0.38),payment_method_UPI (impact: +0.24),5786.89,0
+CUST01715,0.3236,LOW,preferred_genre_Romance (impact: +0.32),payment_failures_3m (impact: +0.30),country_UAE (impact: +0.28),5384.49,0
+CUST02014,0.3224,LOW,device_type_Smart TV (impact: +0.48),preferred_genre_Drama (impact: +0.45),watch_hours_per_week (impact: +0.16),8791.03,0
+CUST00001,0.3223,LOW,watch_hours_per_week (impact: +1.22),device_type_Tablet (impact: +0.62),engagement_score (impact: +0.27),9469.51,1
+CUST04972,0.3222,LOW,preferred_genre_Drama (impact: +0.24),device_type_Tablet (impact: +0.23),payment_method_Wallet (impact: +0.20),1483.6,1
+CUST04894,0.3196,LOW,friction_score (impact: +0.75),payment_method_Wallet (impact: +0.30),watch_hours_per_week (impact: +0.16),3385.19,1
+CUST00325,0.3196,LOW,friction_score (impact: +0.77),device_type_Smart TV (impact: +0.48),support_tickets (impact: +0.37),3520.25,1
+CUST04706,0.3184,LOW,preferred_genre_Thriller (impact: +0.24),payment_method_Debit Card (impact: +0.20),friction_score (impact: +0.20),10892.75,0
+CUST01122,0.3181,LOW,device_type_Tablet (impact: +0.67),tenure_months (impact: +0.65),engagement_score (impact: +0.27),3269.11,0
+CUST02837,0.317,LOW,device_type_Tablet (impact: +0.46),tenure_months (impact: +0.28),preferred_genre_Drama (impact: +0.27),2990.23,0
+CUST03218,0.3168,LOW,device_type_Mobile (impact: +0.47),tenure_months (impact: +0.45),preferred_genre_Romance (impact: +0.33),951.65,1
+CUST02822,0.3167,LOW,device_type_Tablet (impact: +0.28),payment_method_UPI (impact: +0.23),gender_Male (impact: +0.21),3807.54,0
+CUST01504,0.3163,LOW,device_type_Tablet (impact: +0.40),payment_method_UPI (impact: +0.26),preferred_genre_Kids (impact: +0.20),8188.57,1
+CUST01865,0.316,LOW,device_type_Smart TV (impact: +0.57),tenure_months (impact: +0.30),preferred_genre_Thriller (impact: +0.28),2994.49,0
+CUST00213,0.3154,LOW,preferred_genre_Documentary (impact: +0.47),payment_failures_3m (impact: +0.18),tenure_months (impact: +0.07),6148.75,1
+CUST03737,0.315,LOW,preferred_genre_Documentary (impact: +0.73),device_type_Smart TV (impact: +0.49),gender_Other (impact: +0.33),1363.1,0
+CUST04488,0.3148,LOW,device_type_Smart TV (impact: +0.49),tenure_months (impact: +0.27),age (impact: +0.24),3761.06,0
+CUST03096,0.3148,LOW,device_type_Tablet (impact: +0.41),preferred_genre_Thriller (impact: +0.24),payment_method_Wallet (impact: +0.20),8759.83,0
+CUST00940,0.3127,LOW,device_type_Smart TV (impact: +0.37),logins_last_30_days (impact: +0.27),watch_hours_per_week (impact: +0.24),1914.77,1
+CUST04767,0.3113,LOW,preferred_genre_Drama (impact: +0.27),device_type_Tablet (impact: +0.22),payment_method_Wallet (impact: +0.19),9355.11,0
+CUST02597,0.3112,LOW,device_type_Tablet (impact: +0.33),country_UK (impact: +0.31),payment_failures_3m (impact: +0.30),4111.98,1
+CUST04487,0.311,LOW,device_type_Tablet (impact: +0.45),preferred_genre_Kids (impact: +0.35),payment_method_UPI (impact: +0.26),4113.12,0
+CUST01845,0.3077,LOW,watch_hours_per_week (impact: +1.14),country_USA (impact: +0.39),device_type_Mobile (impact: +0.33),16595.42,0
+CUST02586,0.307,LOW,device_type_Smart TV (impact: +0.60),tenure_months (impact: +0.33),country_UAE (impact: +0.25),1516.95,1
+CUST02249,0.3067,LOW,tenure_months (impact: +0.61),preferred_genre_Drama (impact: +0.19),payment_method_UPI (impact: +0.16),827.8,1
+CUST04673,0.3049,LOW,friction_score (impact: +0.66),country_UK (impact: +0.62),preferred_genre_Thriller (impact: +0.28),11793.9,0
+CUST01089,0.3042,LOW,device_type_Mobile (impact: +0.66),tenure_months (impact: +0.57),preferred_genre_Thriller (impact: +0.56),830.75,1
+CUST04063,0.3034,LOW,age (impact: +0.25),preferred_genre_Drama (impact: +0.22),payment_method_UPI (impact: +0.19),4713.27,0
+CUST02459,0.3033,LOW,preferred_genre_Romance (impact: +0.37),payment_method_Wallet (impact: +0.22),gender_Other (impact: +0.14),17814.28,0
+CUST02050,0.3033,LOW,device_type_Mobile (impact: +0.43),preferred_genre_Documentary (impact: +0.37),payment_method_Debit Card (impact: +0.20),13917.17,0
+CUST04105,0.3032,LOW,country_Singapore (impact: +0.90),preferred_genre_Documentary (impact: +0.45),device_type_Tablet (impact: +0.45),11822.5,0
+CUST02065,0.303,LOW,device_type_Tablet (impact: +0.34),payment_method_Debit Card (impact: +0.26),gender_Other (impact: +0.13),1941.85,0
+CUST01551,0.3026,LOW,payment_method_Wallet (impact: +0.25),device_type_Tablet (impact: +0.24),age (impact: +0.23),3480.01,1
+CUST04889,0.3022,LOW,country_UK (impact: +0.51),tenure_months (impact: +0.35),preferred_genre_Kids (impact: +0.24),833.16,0
+CUST03409,0.3021,LOW,device_type_Smart TV (impact: +0.45),payment_method_Debit Card (impact: +0.40),preferred_genre_Romance (impact: +0.25),7806.73,0
+CUST04902,0.3016,LOW,friction_score (impact: +0.51),device_type_Smart TV (impact: +0.43),logins_last_30_days (impact: +0.36),2787.98,0
+CUST00641,0.301,LOW,device_type_Smart TV (impact: +0.55),preferred_genre_Comedy (impact: +0.25),watch_hours_per_week (impact: +0.15),23457.49,1
+CUST04720,0.3008,LOW,friction_score (impact: +0.65),country_UK (impact: +0.52),payment_method_UPI (impact: +0.20),9420.97,0
+CUST04042,0.2981,LOW,device_type_Mobile (impact: +0.62),preferred_genre_Thriller (impact: +0.59),payment_method_Debit Card (impact: +0.24),18506.4,0
+CUST01955,0.2969,LOW,device_type_Smart TV (impact: +0.43),preferred_genre_Comedy (impact: +0.36),watch_hours_per_week (impact: +0.24),11227.63,0
+CUST03555,0.2965,LOW,tenure_months (impact: +0.34),preferred_genre_Thriller (impact: +0.33),gender_Other (impact: +0.23),3861.29,0
+CUST01110,0.2964,LOW,device_type_Smart TV (impact: +0.47),age (impact: +0.35),last_login_days_ago (impact: +0.30),4900.64,0
+CUST00059,0.2958,LOW,device_type_Tablet (impact: +0.38),preferred_genre_Kids (impact: +0.20),payment_method_Wallet (impact: +0.19),3363.29,0
+CUST04554,0.2944,LOW,device_type_Mobile (impact: +0.50),preferred_genre_Romance (impact: +0.46),age (impact: +0.29),12322.67,1
+CUST03775,0.2936,LOW,tenure_months (impact: +0.63),preferred_genre_Documentary (impact: +0.41),gender_Male (impact: +0.29),843.49,1
+CUST04621,0.2934,LOW,device_type_Mobile (impact: +0.37),payment_method_Wallet (impact: +0.24),preferred_genre_Comedy (impact: +0.18),6346.82,0
+CUST03716,0.2931,LOW,payment_failures_3m (impact: +0.30),age (impact: +0.23),gender_Other (impact: +0.19),28807.15,0
+CUST04934,0.2922,LOW,preferred_genre_Documentary (impact: +0.47),device_type_Mobile (impact: +0.43),payment_method_UPI (impact: +0.27),2112.86,0
+CUST02954,0.2918,LOW,logins_last_30_days (impact: +0.37),preferred_genre_Kids (impact: +0.35),payment_method_UPI (impact: +0.24),15277.79,0
+CUST01371,0.2915,LOW,friction_score (impact: +0.56),payment_failures_3m (impact: +0.50),device_type_Mobile (impact: +0.41),3947.77,0
+CUST04599,0.2908,LOW,last_login_days_ago (impact: +1.06),device_type_Smart TV (impact: +0.51),payment_method_Debit Card (impact: +0.23),3528.22,0
+CUST00999,0.2899,LOW,device_type_Tablet (impact: +0.29),preferred_genre_Drama (impact: +0.28),payment_method_UPI (impact: +0.21),7942.81,1
+CUST00677,0.2889,LOW,country_UK (impact: +0.53),preferred_genre_Documentary (impact: +0.38),device_type_Tablet (impact: +0.32),7451.52,0
+CUST02551,0.2887,LOW,device_type_Tablet (impact: +0.42),logins_last_30_days (impact: +0.41),preferred_genre_Drama (impact: +0.27),7388.12,0
+CUST03290,0.2874,LOW,watch_hours_per_week (impact: +1.02),device_type_Mobile (impact: +0.29),preferred_genre_Drama (impact: +0.26),17080.82,1
+CUST01111,0.287,LOW,device_type_Smart TV (impact: +0.44),watch_hours_per_week (impact: +0.32),preferred_genre_Drama (impact: +0.31),12097.44,1
+CUST03246,0.2869,LOW,preferred_genre_Documentary (impact: +0.52),device_type_Tablet (impact: +0.35),payment_method_UPI (impact: +0.28),26207.58,1
+CUST00339,0.2867,LOW,country_Singapore (impact: +0.69),preferred_genre_Documentary (impact: +0.66),payment_method_Wallet (impact: +0.24),4627.33,0
+CUST03707,0.2866,LOW,device_type_Smart TV (impact: +0.46),preferred_genre_Kids (impact: +0.21),payment_method_Debit Card (impact: +0.18),3975.04,1
+CUST04704,0.2864,LOW,device_type_Mobile (impact: +0.41),payment_method_Debit Card (impact: +0.23),gender_Male (impact: +0.22),8552.65,0
+CUST00226,0.2853,LOW,preferred_genre_Thriller (impact: +0.43),country_UK (impact: +0.43),engagement_score (impact: +0.36),23180.09,0
+CUST00319,0.282,LOW,device_type_Smart TV (impact: +0.39),preferred_genre_Romance (impact: +0.33),payment_method_UPI (impact: +0.20),3715.03,0
+CUST02019,0.2819,LOW,preferred_genre_Documentary (impact: +0.51),device_type_Mobile (impact: +0.43),payment_method_UPI (impact: +0.24),4858.81,0
+CUST00615,0.2811,LOW,device_type_Tablet (impact: +0.37),payment_method_Debit Card (impact: +0.17),tenure_months (impact: +0.14),7533.64,1
+CUST02798,0.2807,LOW,device_type_Mobile (impact: +0.41),payment_method_UPI (impact: +0.28),preferred_genre_Kids (impact: +0.21),5383.67,1
+CUST00890,0.2802,LOW,preferred_genre_Romance (impact: +0.46),device_type_Tablet (impact: +0.34),gender_Male (impact: +0.19),3591.89,0
+CUST02087,0.2798,LOW,country_Singapore (impact: +0.50),friction_score (impact: +0.24),device_type_Mobile (impact: +0.24),3593.79,0
+CUST03649,0.2794,LOW,device_type_Tablet (impact: +0.37),gender_Other (impact: +0.24),preferred_genre_Kids (impact: +0.24),7191.29,0
+CUST00527,0.2789,LOW,device_type_Smart TV (impact: +0.60),payment_method_UPI (impact: +0.28),preferred_genre_Comedy (impact: +0.21),13251.56,1
+CUST02565,0.2786,LOW,preferred_genre_Thriller (impact: +0.56),device_type_Mobile (impact: +0.55),payment_method_Debit Card (impact: +0.21),17998.74,0
+CUST02722,0.2779,LOW,country_Singapore (impact: +0.74),preferred_genre_Thriller (impact: +0.27),friction_score (impact: +0.26),3879.74,0
+CUST02692,0.2778,LOW,preferred_genre_Thriller (impact: +0.43),watch_hours_per_week (impact: +0.24),age (impact: +0.20),25948.32,1
+CUST04936,0.2773,LOW,num_profiles (impact: +0.14),tenure_months (impact: +0.13),friction_score (impact: +0.10),9239.63,0
+CUST02318,0.2772,LOW,watch_hours_per_week (impact: +0.89),preferred_genre_Documentary (impact: +0.18),payment_method_Wallet (impact: +0.12),10820.62,1
+CUST03695,0.2772,LOW,watch_hours_per_week (impact: +1.27),device_type_Smart TV (impact: +0.46),engagement_score (impact: +0.29),4890.6,1
+CUST04954,0.2758,LOW,country_USA (impact: +0.49),preferred_genre_Documentary (impact: +0.37),tenure_months (impact: +0.22),3026.37,0
+CUST03597,0.2746,LOW,device_type_Tablet (impact: +0.55),preferred_genre_Documentary (impact: +0.41),gender_Male (impact: +0.12),10134.94,0
+CUST04761,0.2742,LOW,device_type_Tablet (impact: +0.38),payment_method_UPI (impact: +0.24),tenure_months (impact: +0.21),5798.96,1
+CUST02878,0.2727,LOW,device_type_Smart TV (impact: +0.44),preferred_genre_Thriller (impact: +0.32),payment_method_UPI (impact: +0.18),24986.85,0
+CUST03577,0.2719,LOW,preferred_genre_Documentary (impact: +0.57),device_type_Mobile (impact: +0.53),tenure_months (impact: +0.21),5449.46,1
+CUST04509,0.2719,LOW,preferred_genre_Kids (impact: +0.34),logins_last_30_days (impact: +0.32),tenure_months (impact: +0.12),2318.37,0
+CUST04181,0.2716,LOW,friction_score (impact: +0.84),device_type_Mobile (impact: +0.38),preferred_genre_Drama (impact: +0.17),15993.73,0
+CUST01195,0.2708,LOW,preferred_genre_Thriller (impact: +0.33),gender_Male (impact: +0.23),payment_method_UPI (impact: +0.23),2611.84,1
+CUST03198,0.2698,LOW,friction_score (impact: +0.49),device_type_Tablet (impact: +0.40),num_profiles (impact: +0.12),9838.61,0
+CUST04162,0.2683,LOW,friction_score (impact: +0.65),payment_failures_3m (impact: +0.39),device_type_Mobile (impact: +0.39),1164.81,1
+CUST01680,0.2675,LOW,preferred_genre_Comedy (impact: +0.31),device_type_Tablet (impact: +0.27),payment_method_Debit Card (impact: +0.20),3935.55,0
+CUST00818,0.2673,LOW,device_type_Mobile (impact: +0.74),preferred_genre_Thriller (impact: +0.53),payment_method_Wallet (impact: +0.24),1603.9,1
+CUST00929,0.2666,LOW,preferred_genre_Thriller (impact: +0.41),watch_hours_per_week (impact: +0.25),payment_method_UPI (impact: +0.20),16102.29,0
+CUST01947,0.2656,LOW,preferred_genre_Documentary (impact: +0.64),device_type_Mobile (impact: +0.43),gender_Other (impact: +0.29),4694.38,1
+CUST03348,0.2653,LOW,device_type_Mobile (impact: +0.58),preferred_genre_Romance (impact: +0.55),payment_method_Debit Card (impact: +0.28),2339.17,0
+CUST04289,0.2641,LOW,payment_method_UPI (impact: +0.20),preferred_genre_Romance (impact: +0.16),gender_Other (impact: +0.10),2782.41,0
+CUST04871,0.2641,LOW,preferred_genre_Romance (impact: +0.49),device_type_Mobile (impact: +0.40),num_profiles (impact: +0.18),12118.13,0
+CUST01514,0.2618,LOW,preferred_genre_Romance (impact: +0.43),device_type_Tablet (impact: +0.42),payment_method_Wallet (impact: +0.31),7667.37,0
+CUST04282,0.2613,LOW,preferred_genre_Romance (impact: +0.51),payment_method_UPI (impact: +0.30),logins_last_30_days (impact: +0.16),9951.95,0
+CUST00837,0.2613,LOW,country_Singapore (impact: +0.96),watch_hours_per_week (impact: +0.95),preferred_genre_Thriller (impact: +0.39),22116.23,0
+CUST03469,0.2612,LOW,device_type_Mobile (impact: +0.44),payment_method_Debit Card (impact: +0.24),tenure_months (impact: +0.16),2058.27,1
+CUST05000,0.2611,LOW,tenure_months (impact: +0.59),device_type_Smart TV (impact: +0.38),gender_Male (impact: +0.26),882.22,1
+CUST01339,0.26,LOW,device_type_Mobile (impact: +0.41),preferred_genre_Documentary (impact: +0.32),gender_Male (impact: +0.18),4431.17,0
+CUST04689,0.2585,LOW,device_type_Mobile (impact: +0.73),preferred_genre_Thriller (impact: +0.62),tenure_months (impact: +0.24),3393.98,0
+CUST01435,0.2562,LOW,watch_hours_per_week (impact: +1.57),device_type_Mobile (impact: +0.32),engagement_score (impact: +0.22),22639.74,1
+CUST01462,0.2555,LOW,friction_score (impact: +0.63),device_type_Smart TV (impact: +0.43),preferred_genre_Romance (impact: +0.37),18574.82,0
+CUST04633,0.2543,LOW,preferred_genre_Drama (impact: +0.39),device_type_Tablet (impact: +0.32),payment_method_Wallet (impact: +0.17),3561.39,0
+CUST01938,0.2541,LOW,device_type_Mobile (impact: +0.56),logins_last_30_days (impact: +0.26),preferred_genre_Comedy (impact: +0.23),2820.37,0
+CUST00113,0.2537,LOW,friction_score (impact: +0.79),tenure_months (impact: +0.29),payment_method_Debit Card (impact: +0.27),5958.48,0
+CUST01991,0.2519,LOW,device_type_Tablet (impact: +0.34),payment_method_UPI (impact: +0.20),preferred_genre_Thriller (impact: +0.17),1190.96,0
+CUST01087,0.2517,LOW,device_type_Tablet (impact: +0.31),preferred_genre_Thriller (impact: +0.19),payment_method_Wallet (impact: +0.19),3871.68,0
+CUST03587,0.2517,LOW,country_Singapore (impact: +0.65),preferred_genre_Kids (impact: +0.27),num_profiles (impact: +0.22),17924.09,0
+CUST04678,0.2516,LOW,watch_hours_per_week (impact: +0.85),device_type_Mobile (impact: +0.41),last_login_days_ago (impact: +0.18),4318.95,0
+CUST04651,0.2512,LOW,device_type_Mobile (impact: +0.46),preferred_genre_Drama (impact: +0.22),gender_Other (impact: +0.20),1341.14,1
+CUST04628,0.2511,LOW,device_type_Mobile (impact: +0.53),preferred_genre_Documentary (impact: +0.45),payment_method_UPI (impact: +0.26),18312.26,0
+CUST04539,0.2491,LOW,country_UK (impact: +0.51),payment_method_Wallet (impact: +0.30),last_login_days_ago (impact: +0.28),4799.8,0
+CUST02410,0.249,LOW,tenure_months (impact: +0.80),device_type_Smart TV (impact: +0.37),payment_method_Wallet (impact: +0.27),2248.45,0
+CUST04080,0.2481,LOW,device_type_Tablet (impact: +0.47),preferred_genre_Comedy (impact: +0.17),gender_Male (impact: +0.17),3890.31,0
+CUST03199,0.2478,LOW,friction_score (impact: +0.79),device_type_Tablet (impact: +0.36),payment_method_Wallet (impact: +0.17),43275.37,1
+CUST00037,0.2461,LOW,preferred_genre_Comedy (impact: +0.56),device_type_Tablet (impact: +0.40),last_login_days_ago (impact: +0.19),5421.17,0
+CUST02961,0.2458,LOW,device_type_Smart TV (impact: +0.42),tenure_months (impact: +0.36),payment_method_Wallet (impact: +0.29),3301.81,0
+CUST03940,0.2449,LOW,country_UAE (impact: +0.29),payment_method_Wallet (impact: +0.23),last_login_days_ago (impact: +0.20),5275.17,0
+CUST02435,0.2448,LOW,age (impact: +0.23),friction_score (impact: +0.20),gender_Male (impact: +0.19),14481.38,0
+CUST00568,0.2448,LOW,device_type_Mobile (impact: +0.43),preferred_genre_Comedy (impact: +0.33),payment_method_UPI (impact: +0.25),9654.11,0
+CUST03600,0.2448,LOW,device_type_Tablet (impact: +0.44),last_login_days_ago (impact: +0.29),preferred_genre_Comedy (impact: +0.28),6034.34,0
+CUST00683,0.244,LOW,preferred_genre_Romance (impact: +0.37),payment_method_Debit Card (impact: +0.32),gender_Male (impact: +0.18),4362.7,0
+CUST01085,0.2436,LOW,friction_score (impact: +0.74),preferred_genre_Documentary (impact: +0.28),device_type_Tablet (impact: +0.25),4665.93,0
+CUST01313,0.2433,LOW,device_type_Tablet (impact: +0.52),watch_hours_per_week (impact: +0.26),preferred_genre_Drama (impact: +0.22),27206.27,0
+CUST01640,0.2429,LOW,device_type_Tablet (impact: +0.46),payment_method_UPI (impact: +0.31),preferred_genre_Kids (impact: +0.28),3022.21,0
+CUST01353,0.24,LOW,friction_score (impact: +0.50),device_type_Mobile (impact: +0.40),payment_method_UPI (impact: +0.18),25504.17,0
+CUST02455,0.2394,LOW,device_type_Tablet (impact: +0.51),payment_method_UPI (impact: +0.28),logins_last_30_days (impact: +0.24),9109.02,0
+CUST03044,0.2382,LOW,device_type_Smart TV (impact: +0.56),country_USA (impact: +0.55),age (impact: +0.25),3335.19,1
+CUST03383,0.2373,LOW,device_type_Mobile (impact: +0.47),preferred_genre_Romance (impact: +0.32),country_UAE (impact: +0.22),1365.97,1
+CUST00063,0.237,LOW,watch_hours_per_week (impact: +0.33),preferred_genre_Drama (impact: +0.27),payment_method_UPI (impact: +0.24),6472.64,0
+CUST04563,0.2368,LOW,device_type_Tablet (impact: +0.38),preferred_genre_Comedy (impact: +0.26),gender_Male (impact: +0.26),6530.73,1
+CUST02523,0.235,LOW,device_type_Mobile (impact: +0.54),tenure_months (impact: +0.41),preferred_genre_Romance (impact: +0.31),913.37,1
+CUST00790,0.2349,LOW,device_type_Smart TV (impact: +0.53),tenure_months (impact: +0.45),preferred_genre_Drama (impact: +0.18),1065.85,0
+CUST04551,0.2348,LOW,preferred_genre_Documentary (impact: +0.66),device_type_Smart TV (impact: +0.43),logins_last_30_days (impact: +0.16),14673.81,0
+CUST02491,0.2343,LOW,preferred_genre_Romance (impact: +0.30),payment_method_Wallet (impact: +0.17),num_profiles (impact: +0.13),7341.34,0
+CUST00935,0.2328,LOW,device_type_Tablet (impact: +0.47),logins_last_30_days (impact: +0.35),preferred_genre_Drama (impact: +0.23),6891.19,0
+CUST04355,0.2328,LOW,device_type_Mobile (impact: +0.34),preferred_genre_Documentary (impact: +0.29),payment_method_Debit Card (impact: +0.23),11485.27,0
+CUST02339,0.2315,LOW,tenure_months (impact: +0.56),preferred_genre_Thriller (impact: +0.26),logins_last_30_days (impact: +0.25),2300.83,0
+CUST03620,0.2311,LOW,device_type_Mobile (impact: +0.51),preferred_genre_Comedy (impact: +0.28),gender_Other (impact: +0.18),11672.29,0
+CUST00785,0.2309,LOW,device_type_Mobile (impact: +0.45),tenure_months (impact: +0.34),country_UK (impact: +0.33),1683.55,0
+CUST04900,0.2305,LOW,country_USA (impact: +0.72),tenure_months (impact: +0.47),preferred_genre_Thriller (impact: +0.31),2688.0,0
+CUST00287,0.2297,LOW,preferred_genre_Thriller (impact: +0.35),engagement_score (impact: +0.17),friction_score (impact: +0.13),22772.78,0
+CUST02294,0.2281,LOW,device_type_Tablet (impact: +0.45),last_login_days_ago (impact: +0.22),age (impact: +0.19),1536.08,0
+CUST02493,0.228,LOW,device_type_Mobile (impact: +0.44),payment_method_Wallet (impact: +0.30),age (impact: +0.12),10486.47,0
+CUST02917,0.2262,LOW,payment_method_UPI (impact: +0.22),tenure_months (impact: +0.22),age (impact: +0.10),6801.14,0
+CUST03849,0.2262,LOW,device_type_Mobile (impact: +0.45),preferred_genre_Kids (impact: +0.21),age (impact: +0.13),2925.77,1
+CUST02430,0.2259,LOW,tenure_months (impact: +0.26),watch_hours_per_week (impact: +0.19),preferred_genre_Drama (impact: +0.19),11132.41,1
+CUST04675,0.2247,LOW,preferred_genre_Documentary (impact: +0.57),gender_Other (impact: +0.28),tenure_months (impact: +0.14),3868.63,1
+CUST03022,0.2244,LOW,device_type_Mobile (impact: +0.43),preferred_genre_Drama (impact: +0.30),payment_method_Wallet (impact: +0.19),2932.65,1
+CUST01707,0.2243,LOW,preferred_genre_Documentary (impact: +0.43),friction_score (impact: +0.17),num_profiles (impact: +0.16),17032.29,0
+CUST01430,0.224,LOW,device_type_Tablet (impact: +0.35),payment_method_Wallet (impact: +0.18),gender_Other (impact: +0.15),2316.24,0
+CUST00483,0.2238,LOW,device_type_Mobile (impact: +0.61),preferred_genre_Documentary (impact: +0.41),age (impact: +0.21),4325.07,0
+CUST02816,0.2237,LOW,watch_hours_per_week (impact: +1.32),gender_Male (impact: +0.27),engagement_score (impact: +0.09),9114.19,0
+CUST03852,0.2234,LOW,device_type_Mobile (impact: +0.49),gender_Male (impact: +0.24),payment_method_Debit Card (impact: +0.19),7363.08,0
+CUST01573,0.2231,LOW,device_type_Smart TV (impact: +0.49),preferred_genre_Drama (impact: +0.20),age (impact: +0.18),2164.37,1
+CUST02925,0.2226,LOW,device_type_Mobile (impact: +0.62),country_UAE (impact: +0.22),payment_method_UPI (impact: +0.21),3248.8,1
+CUST02619,0.2221,LOW,device_type_Smart TV (impact: +0.49),payment_method_Debit Card (impact: +0.19),gender_Other (impact: +0.18),4489.42,1
+CUST01082,0.2201,LOW,device_type_Smart TV (impact: +0.41),logins_last_30_days (impact: +0.24),preferred_genre_Thriller (impact: +0.22),4345.43,1
+CUST01934,0.2187,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Romance (impact: +0.35),gender_Other (impact: +0.15),2176.56,0
+CUST02553,0.2185,LOW,device_type_Mobile (impact: +0.60),preferred_genre_Comedy (impact: +0.25),logins_last_30_days (impact: +0.17),5849.46,0
+CUST01851,0.2177,LOW,watch_hours_per_week (impact: +0.93),preferred_genre_Thriller (impact: +0.28),payment_method_UPI (impact: +0.23),17567.63,1
+CUST02133,0.2167,LOW,device_type_Smart TV (impact: +0.37),payment_failures_3m (impact: +0.18),gender_Male (impact: +0.15),2182.25,1
+CUST01688,0.2163,LOW,preferred_genre_Drama (impact: +0.37),gender_Male (impact: +0.21),payment_method_Wallet (impact: +0.18),3587.11,0
+CUST04254,0.2161,LOW,device_type_Tablet (impact: +0.44),preferred_genre_Romance (impact: +0.37),payment_method_Debit Card (impact: +0.28),9779.68,0
+CUST03171,0.2157,LOW,device_type_Mobile (impact: +0.68),preferred_genre_Thriller (impact: +0.57),gender_Other (impact: +0.25),6242.84,0
+CUST03977,0.2155,LOW,tenure_months (impact: +0.47),preferred_genre_Thriller (impact: +0.21),gender_Other (impact: +0.16),2348.88,0
+CUST04638,0.2149,LOW,preferred_genre_Romance (impact: +0.50),payment_method_UPI (impact: +0.31),tenure_months (impact: +0.24),15054.99,0
+CUST02649,0.2149,LOW,watch_hours_per_week (impact: +0.75),engagement_score (impact: +0.22),payment_method_Wallet (impact: +0.18),4374.8,0
+CUST01717,0.2146,LOW,device_type_Mobile (impact: +0.39),payment_method_UPI (impact: +0.21),preferred_genre_Romance (impact: +0.17),6275.28,0
+CUST01999,0.2145,LOW,preferred_genre_Thriller (impact: +0.46),device_type_Tablet (impact: +0.32),num_profiles (impact: +0.11),3126.12,0
+CUST02354,0.2142,LOW,watch_hours_per_week (impact: +0.91),country_USA (impact: +0.45),payment_method_UPI (impact: +0.19),13331.22,1
+CUST04715,0.2134,LOW,device_type_Smart TV (impact: +0.55),age (impact: +0.36),preferred_genre_Comedy (impact: +0.30),16879.12,0
+CUST04666,0.2128,LOW,preferred_genre_Documentary (impact: +0.39),gender_Other (impact: +0.28),payment_failures_3m (impact: +0.17),4386.54,1
+CUST04417,0.212,LOW,device_type_Mobile (impact: +0.44),payment_method_Wallet (impact: +0.28),tenure_months (impact: +0.18),11962.29,1
+CUST01458,0.2116,LOW,engagement_score (impact: +0.49),device_type_Smart TV (impact: +0.33),payment_method_Debit Card (impact: +0.32),4235.92,0
+CUST00689,0.2104,LOW,device_type_Tablet (impact: +0.38),preferred_genre_Thriller (impact: +0.20),payment_method_Wallet (impact: +0.17),7227.88,0
+CUST02150,0.2094,LOW,device_type_Tablet (impact: +0.45),payment_method_Wallet (impact: +0.22),age (impact: +0.15),2674.75,0
+CUST04925,0.2077,LOW,device_type_Smart TV (impact: +0.49),payment_method_UPI (impact: +0.23),preferred_genre_Comedy (impact: +0.18),2680.43,0
+CUST03076,0.207,LOW,device_type_Mobile (impact: +0.45),preferred_genre_Comedy (impact: +0.29),gender_Other (impact: +0.25),21543.88,0
+CUST04982,0.2061,LOW,preferred_genre_Kids (impact: +0.30),friction_score (impact: +0.29),payment_method_UPI (impact: +0.27),5845.8,1
+CUST01950,0.2051,LOW,device_type_Mobile (impact: +0.43),tenure_months (impact: +0.39),gender_Other (impact: +0.19),3810.66,1
+CUST00029,0.205,LOW,device_type_Tablet (impact: +0.46),gender_Other (impact: +0.21),payment_method_Debit Card (impact: +0.20),8257.28,0
+CUST01678,0.2048,LOW,device_type_Mobile (impact: +0.53),preferred_genre_Kids (impact: +0.37),payment_method_Debit Card (impact: +0.28),2215.55,1
+CUST04545,0.2043,LOW,device_type_Tablet (impact: +0.69),payment_method_UPI (impact: +0.24),last_login_days_ago (impact: +0.15),5558.75,0
+CUST00832,0.2037,LOW,tenure_months (impact: +0.26),payment_method_UPI (impact: +0.22),preferred_genre_Romance (impact: +0.12),1743.07,0
+CUST03444,0.2021,LOW,device_type_Smart TV (impact: +0.44),gender_Other (impact: +0.20),num_profiles (impact: +0.14),2223.03,1
+CUST02906,0.2019,LOW,device_type_Tablet (impact: +0.36),gender_Male (impact: +0.30),country_UAE (impact: +0.22),27876.63,0
+CUST03934,0.2018,LOW,preferred_genre_Romance (impact: +0.31),payment_method_UPI (impact: +0.23),age (impact: +0.16),5177.94,1
+CUST00673,0.2014,LOW,device_type_Tablet (impact: +0.47),preferred_genre_Comedy (impact: +0.31),engagement_score (impact: +0.29),23607.88,0
+CUST01189,0.2014,LOW,device_type_Tablet (impact: +0.39),payment_method_UPI (impact: +0.35),preferred_genre_Kids (impact: +0.19),8766.82,0
+CUST04869,0.2007,LOW,device_type_Mobile (impact: +0.46),payment_method_Wallet (impact: +0.22),preferred_genre_Kids (impact: +0.20),11966.14,0
+CUST03006,0.2002,LOW,preferred_genre_Documentary (impact: +0.64),device_type_Tablet (impact: +0.41),gender_Other (impact: +0.27),13420.06,0
+CUST04186,0.2001,LOW,device_type_Mobile (impact: +0.46),tenure_months (impact: +0.28),payment_method_UPI (impact: +0.25),8781.85,0
+CUST02004,0.199,LOW,watch_hours_per_week (impact: +0.29),payment_method_Wallet (impact: +0.25),preferred_genre_Drama (impact: +0.25),2390.86,1
+CUST01943,0.1988,LOW,device_type_Tablet (impact: +0.54),watch_hours_per_week (impact: +0.21),preferred_genre_Kids (impact: +0.17),3998.15,0
+CUST01495,0.1977,LOW,device_type_Tablet (impact: +0.44),preferred_genre_Comedy (impact: +0.43),payment_method_Debit Card (impact: +0.20),19872.97,0
+CUST01192,0.1967,LOW,device_type_Mobile (impact: +0.59),payment_method_Debit Card (impact: +0.21),gender_Male (impact: +0.21),3836.5,0
+CUST00517,0.1962,LOW,payment_method_Debit Card (impact: +0.27),gender_Other (impact: +0.19),payment_failures_3m (impact: +0.16),2239.43,0
+CUST00980,0.1952,LOW,country_USA (impact: +0.49),device_type_Tablet (impact: +0.44),gender_Male (impact: +0.25),8433.06,0
+CUST04110,0.1938,LOW,country_Singapore (impact: +0.60),device_type_Smart TV (impact: +0.36),age (impact: +0.16),2815.89,1
+CUST01368,0.1937,LOW,engagement_score (impact: +0.53),gender_Male (impact: +0.28),tenure_months (impact: +0.19),3690.46,0
+CUST03875,0.1927,LOW,payment_method_Wallet (impact: +0.22),watch_hours_per_week (impact: +0.20),gender_Other (impact: +0.14),8057.2,0
+CUST01427,0.1922,LOW,payment_method_UPI (impact: +0.25),preferred_genre_Kids (impact: +0.23),gender_Other (impact: +0.17),5643.46,0
+CUST02292,0.1922,LOW,device_type_Mobile (impact: +0.53),preferred_genre_Comedy (impact: +0.22),gender_Other (impact: +0.17),9674.52,1
+CUST03867,0.1919,LOW,friction_score (impact: +0.94),num_profiles (impact: +0.16),last_login_days_ago (impact: +0.13),3055.38,1
+CUST01510,0.1919,LOW,device_type_Smart TV (impact: +0.48),payment_method_Wallet (impact: +0.20),gender_Other (impact: +0.19),4181.11,0
+CUST00116,0.1918,LOW,device_type_Tablet (impact: +0.32),gender_Male (impact: +0.29),payment_method_Debit Card (impact: +0.22),11623.23,1
+CUST02232,0.1902,LOW,preferred_genre_Documentary (impact: +0.59),tenure_months (impact: +0.15),age (impact: +0.14),2578.52,0
+CUST02685,0.1892,LOW,watch_hours_per_week (impact: +0.77),country_USA (impact: +0.68),preferred_genre_Documentary (impact: +0.25),5808.32,1
+CUST00274,0.1879,LOW,preferred_genre_Documentary (impact: +0.63),device_type_Smart TV (impact: +0.37),gender_Other (impact: +0.22),7786.07,0
+CUST01599,0.1855,LOW,tenure_months (impact: +1.16),device_type_Smart TV (impact: +0.54),logins_last_30_days (impact: +0.14),2438.69,0
+CUST03607,0.1853,LOW,device_type_Smart TV (impact: +0.52),preferred_genre_Thriller (impact: +0.44),gender_Other (impact: +0.25),22784.01,0
+CUST02769,0.1848,LOW,country_USA (impact: +0.51),friction_score (impact: +0.50),preferred_genre_Documentary (impact: +0.36),36474.16,0
+CUST03013,0.1838,LOW,device_type_Mobile (impact: +0.50),payment_method_Wallet (impact: +0.17),watch_hours_per_week (impact: +0.08),4887.22,1
+CUST01886,0.1837,LOW,device_type_Mobile (impact: +0.36),payment_method_UPI (impact: +0.20),country_India (impact: +0.07),4385.87,0
+CUST03222,0.183,LOW,device_type_Smart TV (impact: +0.41),tenure_months (impact: +0.32),preferred_genre_Thriller (impact: +0.25),8969.22,0
+CUST02235,0.1824,LOW,device_type_Mobile (impact: +0.58),preferred_genre_Thriller (impact: +0.54),country_UAE (impact: +0.17),6182.86,0
+CUST02118,0.1812,LOW,device_type_Smart TV (impact: +0.38),preferred_genre_Thriller (impact: +0.31),payment_method_Debit Card (impact: +0.24),17978.4,0
+CUST04725,0.1804,LOW,preferred_genre_Documentary (impact: +0.56),device_type_Mobile (impact: +0.46),tenure_months (impact: +0.19),1304.86,0
+CUST03978,0.1804,LOW,device_type_Tablet (impact: +0.37),payment_method_Wallet (impact: +0.19),preferred_genre_Kids (impact: +0.17),17586.7,1
+CUST00918,0.1801,LOW,device_type_Smart TV (impact: +0.36),preferred_genre_Drama (impact: +0.30),watch_hours_per_week (impact: +0.29),14729.21,0
+CUST03571,0.18,LOW,device_type_Smart TV (impact: +0.45),tenure_months (impact: +0.35),preferred_genre_Drama (impact: +0.30),3931.15,1
+CUST01824,0.1799,LOW,device_type_Mobile (impact: +0.33),gender_Other (impact: +0.22),payment_failures_3m (impact: +0.21),30795.62,1
+CUST04248,0.1798,LOW,device_type_Mobile (impact: +0.53),payment_method_Wallet (impact: +0.24),num_profiles (impact: +0.18),6139.3,0
+CUST01863,0.1796,LOW,tenure_months (impact: +0.56),device_type_Tablet (impact: +0.47),payment_method_UPI (impact: +0.18),979.52,0
+CUST03847,0.1788,LOW,country_UK (impact: +0.45),logins_last_30_days (impact: +0.28),age (impact: +0.17),3758.58,1
+CUST00272,0.178,LOW,gender_Male (impact: +0.24),payment_method_Wallet (impact: +0.20),preferred_genre_Kids (impact: +0.15),2944.27,0
+CUST04297,0.1777,LOW,device_type_Tablet (impact: +0.35),preferred_genre_Thriller (impact: +0.34),tenure_months (impact: +0.23),6570.27,0
+CUST03592,0.1773,LOW,preferred_genre_Thriller (impact: +0.39),payment_method_UPI (impact: +0.21),last_login_days_ago (impact: +0.13),7367.09,0
+CUST00653,0.1771,LOW,device_type_Tablet (impact: +0.46),payment_method_Wallet (impact: +0.19),gender_Other (impact: +0.18),11177.16,0
+CUST02193,0.1771,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Thriller (impact: +0.31),payment_method_Debit Card (impact: +0.27),46022.39,0
+CUST00972,0.175,LOW,device_type_Mobile (impact: +0.36),payment_method_Debit Card (impact: +0.26),tenure_months (impact: +0.16),3119.38,0
+CUST04719,0.1739,LOW,logins_last_30_days (impact: +0.35),country_UK (impact: +0.26),preferred_genre_Kids (impact: +0.23),3287.74,0
+CUST01078,0.1738,LOW,device_type_Smart TV (impact: +0.35),preferred_genre_Comedy (impact: +0.29),gender_Other (impact: +0.15),28034.53,0
+CUST03068,0.1729,LOW,tenure_months (impact: +0.65),device_type_Smart TV (impact: +0.45),payment_method_UPI (impact: +0.28),2476.21,1
+CUST03958,0.172,LOW,friction_score (impact: +0.51),device_type_Mobile (impact: +0.46),gender_Male (impact: +0.21),16939.43,0
+CUST04134,0.1718,LOW,tenure_months (impact: +0.07),country_India (impact: +0.06),friction_score (impact: +0.04),7025.33,0
+CUST00337,0.1714,LOW,device_type_Mobile (impact: +0.44),gender_Other (impact: +0.14),payment_failures_3m (impact: +0.14),5111.76,0
+CUST00488,0.1714,LOW,device_type_Tablet (impact: +0.37),preferred_genre_Thriller (impact: +0.29),age (impact: +0.24),21085.77,1
+CUST01317,0.1694,LOW,device_type_Smart TV (impact: +0.52),tenure_months (impact: +0.27),preferred_genre_Romance (impact: +0.21),1157.06,0
+CUST01811,0.1683,LOW,payment_method_UPI (impact: +0.20),num_profiles (impact: +0.12),country_India (impact: +0.09),5957.96,0
+CUST04444,0.1677,LOW,tenure_months (impact: +0.60),device_type_Tablet (impact: +0.54),payment_method_UPI (impact: +0.17),993.78,0
+CUST01728,0.1671,LOW,watch_hours_per_week (impact: +0.98),country_USA (impact: +0.38),device_type_Smart TV (impact: +0.37),24104.63,1
+CUST01252,0.166,LOW,device_type_Mobile (impact: +0.51),preferred_genre_Documentary (impact: +0.46),tenure_months (impact: +0.23),3745.31,0
+CUST00130,0.1656,LOW,preferred_genre_Documentary (impact: +0.55),payment_method_UPI (impact: +0.31),watch_hours_per_week (impact: +0.29),25332.76,0
+CUST01475,0.1647,LOW,preferred_genre_Thriller (impact: +0.37),device_type_Smart TV (impact: +0.35),watch_hours_per_week (impact: +0.25),22090.44,1
+CUST04280,0.1636,LOW,friction_score (impact: +0.67),device_type_Mobile (impact: +0.34),preferred_genre_Romance (impact: +0.25),29405.57,0
+CUST01644,0.1624,LOW,device_type_Smart TV (impact: +0.59),payment_method_Wallet (impact: +0.24),gender_Male (impact: +0.16),2000.2,0
+CUST03007,0.1614,LOW,friction_score (impact: +0.55),payment_failures_3m (impact: +0.48),device_type_Smart TV (impact: +0.45),2503.37,0
+CUST01954,0.161,LOW,tenure_months (impact: +0.52),payment_method_UPI (impact: +0.30),preferred_genre_Comedy (impact: +0.15),2511.85,0
+CUST02207,0.1597,LOW,preferred_genre_Documentary (impact: +0.60),tenure_months (impact: +0.19),payment_method_Debit Card (impact: +0.19),13427.87,0
+CUST02804,0.159,LOW,engagement_score (impact: +0.41),last_login_days_ago (impact: +0.32),gender_Other (impact: +0.21),5187.85,0
+CUST02928,0.158,LOW,num_profiles (impact: +0.17),gender_Male (impact: +0.17),age (impact: +0.10),2513.23,0
+CUST03203,0.1578,LOW,preferred_genre_Comedy (impact: +0.31),payment_method_Debit Card (impact: +0.22),watch_hours_per_week (impact: +0.12),2514.11,0
+CUST03451,0.1576,LOW,device_type_Tablet (impact: +0.41),preferred_genre_Comedy (impact: +0.26),gender_Other (impact: +0.15),5044.07,0
+CUST01346,0.1572,LOW,payment_method_Wallet (impact: +0.26),gender_Male (impact: +0.17),preferred_genre_Comedy (impact: +0.16),1341.79,0
+CUST02337,0.1571,LOW,device_type_Mobile (impact: +0.49),gender_Male (impact: +0.37),preferred_genre_Documentary (impact: +0.29),10902.93,1
+CUST00385,0.1569,LOW,device_type_Tablet (impact: +0.48),gender_Male (impact: +0.22),payment_method_Wallet (impact: +0.15),7717.67,0
+CUST01419,0.156,LOW,device_type_Smart TV (impact: +0.45),gender_Other (impact: +0.21),payment_method_Wallet (impact: +0.17),26973.45,0
+CUST03712,0.1557,LOW,device_type_Smart TV (impact: +0.48),age (impact: +0.21),preferred_genre_Kids (impact: +0.09),10794.14,1
+CUST04987,0.1554,LOW,payment_method_Debit Card (impact: +0.23),tenure_months (impact: +0.21),gender_Male (impact: +0.15),2857.4,0
+CUST00579,0.1554,LOW,device_type_Tablet (impact: +0.50),preferred_genre_Documentary (impact: +0.38),payment_method_UPI (impact: +0.22),5210.5,0
+CUST01398,0.1546,LOW,preferred_genre_Thriller (impact: +0.48),device_type_Tablet (impact: +0.33),country_UK (impact: +0.31),12233.26,0
+CUST01671,0.1544,LOW,country_Singapore (impact: +0.77),device_type_Mobile (impact: +0.29),payment_method_UPI (impact: +0.20),8076.85,0
+CUST03322,0.1539,LOW,device_type_Tablet (impact: +0.43),preferred_genre_Documentary (impact: +0.34),payment_method_Debit Card (impact: +0.20),9710.43,0
+CUST00870,0.1532,LOW,preferred_genre_Documentary (impact: +0.63),payment_method_Wallet (impact: +0.18),country_India (impact: +0.08),5070.37,0
+CUST01670,0.1522,LOW,preferred_genre_Comedy (impact: +0.24),tenure_months (impact: +0.17),watch_hours_per_week (impact: +0.14),12192.45,0
+CUST00248,0.1511,LOW,country_Singapore (impact: +0.74),device_type_Smart TV (impact: +0.37),engagement_score (impact: +0.26),5237.04,1
+CUST02497,0.151,LOW,preferred_genre_Romance (impact: +0.31),country_UAE (impact: +0.26),logins_last_30_days (impact: +0.21),8818.59,0
+CUST03410,0.1505,LOW,tenure_months (impact: +0.56),preferred_genre_Thriller (impact: +0.21),payment_method_Wallet (impact: +0.19),4072.42,0
+CUST04582,0.1494,LOW,device_type_Tablet (impact: +0.40),preferred_genre_Kids (impact: +0.27),payment_method_Debit Card (impact: +0.24),6093.6,0
+CUST04151,0.1493,LOW,payment_method_Debit Card (impact: +0.29),payment_failures_3m (impact: +0.10),country_India (impact: +0.09),31267.76,0
+CUST01989,0.149,LOW,device_type_Tablet (impact: +0.41),preferred_genre_Comedy (impact: +0.32),gender_Other (impact: +0.19),12192.98,0
+CUST00989,0.1485,LOW,device_type_Mobile (impact: +0.41),payment_method_Debit Card (impact: +0.25),watch_hours_per_week (impact: +0.14),20820.51,0
+CUST01209,0.1476,LOW,device_type_Smart TV (impact: +0.46),preferred_genre_Thriller (impact: +0.31),gender_Other (impact: +0.18),1526.61,0
+CUST04476,0.1473,LOW,country_Singapore (impact: +0.70),device_type_Smart TV (impact: +0.55),preferred_genre_Comedy (impact: +0.27),2714.9,0
+CUST03753,0.1465,LOW,gender_Male (impact: +0.24),preferred_genre_Thriller (impact: +0.23),payment_method_UPI (impact: +0.22),13628.6,1
+CUST04177,0.1452,LOW,country_Singapore (impact: +0.82),device_type_Tablet (impact: +0.36),gender_Male (impact: +0.20),1701.04,0
+CUST03952,0.145,LOW,device_type_Smart TV (impact: +0.42),preferred_genre_Drama (impact: +0.39),num_profiles (impact: +0.18),7486.35,0
+CUST03163,0.1447,LOW,country_USA (impact: +0.66),preferred_genre_Romance (impact: +0.40),logins_last_30_days (impact: +0.09),18450.41,0
+CUST01837,0.1445,LOW,device_type_Mobile (impact: +0.45),payment_method_UPI (impact: +0.27),preferred_genre_Drama (impact: +0.16),1361.89,0
+CUST04321,0.1444,LOW,device_type_Mobile (impact: +0.53),gender_Other (impact: +0.14),num_profiles (impact: +0.12),1872.84,1
+CUST02137,0.1438,LOW,device_type_Mobile (impact: +0.54),payment_method_Wallet (impact: +0.32),preferred_genre_Comedy (impact: +0.17),12998.01,1
+CUST00763,0.1433,LOW,preferred_genre_Documentary (impact: +0.45),device_type_Mobile (impact: +0.37),payment_method_UPI (impact: +0.25),14534.68,1
+CUST03120,0.1428,LOW,preferred_genre_Documentary (impact: +0.60),device_type_Mobile (impact: +0.45),tenure_months (impact: +0.09),15752.26,0
+CUST01548,0.1424,LOW,device_type_Tablet (impact: +0.48),preferred_genre_Kids (impact: +0.26),gender_Other (impact: +0.22),11982.64,0
+CUST02627,0.1414,LOW,country_USA (impact: +0.56),device_type_Mobile (impact: +0.55),gender_Male (impact: +0.28),8232.3,0
+CUST00408,0.1411,LOW,logins_last_30_days (impact: +0.34),preferred_genre_Romance (impact: +0.32),country_India (impact: +0.09),25287.3,0
+CUST01389,0.1407,LOW,device_type_Mobile (impact: +0.48),payment_method_UPI (impact: +0.20),tenure_months (impact: +0.08),2564.99,1
+CUST03523,0.1399,LOW,preferred_genre_Thriller (impact: +0.44),gender_Male (impact: +0.17),friction_score (impact: +0.10),7296.06,1
+CUST01969,0.1371,LOW,device_type_Mobile (impact: +0.45),preferred_genre_Romance (impact: +0.40),payment_method_Debit Card (impact: +0.30),3949.33,0
+CUST01848,0.1367,LOW,device_type_Tablet (impact: +0.50),preferred_genre_Comedy (impact: +0.29),payment_method_UPI (impact: +0.20),5669.02,0
+CUST02635,0.1363,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Comedy (impact: +0.25),payment_method_UPI (impact: +0.21),17238.95,0
+CUST00822,0.1351,LOW,device_type_Smart TV (impact: +0.42),gender_Male (impact: +0.24),payment_method_Debit Card (impact: +0.19),12392.82,1
+CUST01976,0.1348,LOW,watch_hours_per_week (impact: +0.33),payment_method_UPI (impact: +0.23),country_India (impact: +0.10),8091.75,0
+CUST01274,0.1347,LOW,device_type_Mobile (impact: +0.50),country_India (impact: +0.07),logins_last_30_days (impact: +0.07),1894.24,0
+CUST02876,0.1337,LOW,device_type_Mobile (impact: +0.53),preferred_genre_Kids (impact: +0.19),gender_Male (impact: +0.18),9510.03,0
+CUST02315,0.1337,LOW,device_type_Smart TV (impact: +0.53),tenure_months (impact: +0.39),preferred_genre_Drama (impact: +0.29),4137.42,1
+CUST01286,0.1321,LOW,device_type_Smart TV (impact: +0.32),gender_Other (impact: +0.22),payment_method_UPI (impact: +0.19),10393.98,0
+CUST01290,0.1302,LOW,preferred_genre_Drama (impact: +0.25),payment_method_Debit Card (impact: +0.22),watch_hours_per_week (impact: +0.18),26908.82,0
+CUST04293,0.1298,LOW,device_type_Mobile (impact: +0.46),tenure_months (impact: +0.39),payment_method_UPI (impact: +0.21),1038.98,1
+CUST01821,0.1292,LOW,device_type_Tablet (impact: +0.46),tenure_months (impact: +0.23),gender_Other (impact: +0.22),4780.07,0
+CUST04433,0.1291,LOW,preferred_genre_Romance (impact: +0.47),device_type_Smart TV (impact: +0.43),payment_method_Debit Card (impact: +0.28),2946.37,0
+CUST02300,0.1289,LOW,device_type_Mobile (impact: +0.50),gender_Male (impact: +0.23),payment_method_Wallet (impact: +0.17),14779.79,0
+CUST01161,0.1287,LOW,device_type_Mobile (impact: +0.45),last_login_days_ago (impact: +0.14),gender_Other (impact: +0.12),2080.56,0
+CUST03450,0.1284,LOW,device_type_Mobile (impact: +0.65),preferred_genre_Kids (impact: +0.18),gender_Other (impact: +0.18),6591.1,0
+CUST03767,0.1268,LOW,device_type_Mobile (impact: +0.51),payment_method_Wallet (impact: +0.22),tenure_months (impact: +0.17),1563.98,0
+CUST02405,0.1267,LOW,country_Singapore (impact: +0.82),device_type_Mobile (impact: +0.40),logins_last_30_days (impact: +0.39),5561.47,0
+CUST04533,0.1265,LOW,device_type_Tablet (impact: +0.40),gender_Other (impact: +0.15),country_India (impact: +0.09),12515.15,1
+CUST04774,0.1247,LOW,preferred_genre_Thriller (impact: +0.23),gender_Male (impact: +0.14),logins_last_30_days (impact: +0.09),4528.79,0
+CUST04230,0.1244,LOW,preferred_genre_Romance (impact: +0.16),payment_method_Wallet (impact: +0.15),logins_last_30_days (impact: +0.05),2787.93,1
+CUST04863,0.124,LOW,device_type_Tablet (impact: +0.45),preferred_genre_Romance (impact: +0.31),payment_method_Wallet (impact: +0.19),10927.77,0
+CUST04796,0.1234,LOW,country_USA (impact: +0.53),device_type_Tablet (impact: +0.44),gender_Male (impact: +0.21),22412.76,0
+CUST02372,0.1222,LOW,device_type_Smart TV (impact: +0.57),preferred_genre_Drama (impact: +0.24),payment_method_Debit Card (impact: +0.22),7861.1,0
+CUST01832,0.122,LOW,device_type_Tablet (impact: +0.43),payment_failures_3m (impact: +0.20),gender_Other (impact: +0.18),26724.14,0
+CUST03937,0.1218,LOW,preferred_genre_Comedy (impact: +0.28),payment_method_Wallet (impact: +0.19),gender_Other (impact: +0.16),5417.72,0
+CUST01798,0.1208,LOW,device_type_Tablet (impact: +0.35),tenure_months (impact: +0.19),payment_method_Wallet (impact: +0.19),4387.14,0
+CUST00855,0.1198,LOW,device_type_Mobile (impact: +0.53),preferred_genre_Kids (impact: +0.24),payment_method_UPI (impact: +0.22),12659.72,1
+CUST00157,0.1189,LOW,device_type_Mobile (impact: +0.40),preferred_genre_Comedy (impact: +0.20),payment_method_Wallet (impact: +0.19),5961.44,0
+CUST02721,0.1185,LOW,preferred_genre_Documentary (impact: +0.38),age (impact: +0.20),payment_method_Debit Card (impact: +0.18),4385.57,0
+CUST04419,0.1178,LOW,preferred_genre_Documentary (impact: +0.50),device_type_Tablet (impact: +0.31),tenure_months (impact: +0.17),7048.57,0
+CUST03873,0.1178,LOW,device_type_Mobile (impact: +0.42),payment_failures_3m (impact: +0.12),preferred_genre_Kids (impact: +0.11),21571.32,1
+CUST02238,0.1159,LOW,device_type_Tablet (impact: +0.38),country_UAE (impact: +0.23),payment_method_Debit Card (impact: +0.17),4574.13,0
+CUST04881,0.1159,LOW,device_type_Smart TV (impact: +0.39),tenure_months (impact: +0.21),preferred_genre_Kids (impact: +0.11),3870.69,0
+CUST03718,0.1155,LOW,device_type_Smart TV (impact: +0.38),preferred_genre_Comedy (impact: +0.31),gender_Male (impact: +0.18),18095.15,1
+CUST04852,0.1148,LOW,device_type_Smart TV (impact: +0.46),gender_Male (impact: +0.19),last_login_days_ago (impact: +0.15),1585.41,0
+CUST03440,0.1136,LOW,preferred_genre_Thriller (impact: +0.23),payment_method_UPI (impact: +0.22),age (impact: +0.14),10623.28,0
+CUST00720,0.1136,LOW,country_Singapore (impact: +0.65),device_type_Smart TV (impact: +0.31),payment_method_UPI (impact: +0.20),3880.73,0
+CUST02908,0.1131,LOW,device_type_Smart TV (impact: +0.38),gender_Male (impact: +0.21),payment_method_Wallet (impact: +0.19),11949.44,0
+CUST01972,0.1127,LOW,device_type_Smart TV (impact: +0.51),payment_method_Wallet (impact: +0.24),gender_Other (impact: +0.18),14178.32,0
+CUST02244,0.1124,LOW,device_type_Tablet (impact: +0.35),country_UK (impact: +0.20),last_login_days_ago (impact: +0.17),4239.34,0
+CUST01315,0.1117,LOW,payment_method_UPI (impact: +0.28),age (impact: +0.23),country_India (impact: +0.09),2474.78,1
+CUST01522,0.1111,LOW,device_type_Mobile (impact: +0.47),preferred_genre_Documentary (impact: +0.38),payment_method_Wallet (impact: +0.25),4422.46,0
+CUST00282,0.1108,LOW,device_type_Tablet (impact: +0.46),gender_Male (impact: +0.20),preferred_genre_Comedy (impact: +0.17),1769.51,1
+CUST00503,0.1098,LOW,country_USA (impact: +0.48),payment_method_UPI (impact: +0.25),tenure_months (impact: +0.22),4074.56,0
+CUST01538,0.1098,LOW,friction_score (impact: +0.69),payment_method_Debit Card (impact: +0.22),gender_Male (impact: +0.10),6200.23,1
+CUST04029,0.1098,LOW,device_type_Tablet (impact: +0.32),num_profiles (impact: +0.15),preferred_genre_Comedy (impact: +0.09),2302.88,0
+CUST02258,0.1094,LOW,device_type_Smart TV (impact: +0.33),gender_Male (impact: +0.19),payment_failures_3m (impact: +0.17),6379.99,0
+CUST02102,0.1091,LOW,payment_method_Wallet (impact: +0.21),gender_Male (impact: +0.20),age (impact: +0.09),6668.02,1
+CUST03542,0.1085,LOW,payment_method_UPI (impact: +0.28),watch_hours_per_week (impact: +0.22),gender_Other (impact: +0.17),4435.19,0
+CUST00693,0.1084,LOW,preferred_genre_Romance (impact: +0.53),country_USA (impact: +0.52),payment_method_Wallet (impact: +0.46),12012.38,0
+CUST03717,0.1083,LOW,gender_Other (impact: +0.24),tenure_months (impact: +0.22),preferred_genre_Thriller (impact: +0.15),10678.73,1
+CUST04723,0.1082,LOW,device_type_Mobile (impact: +0.38),gender_Male (impact: +0.23),payment_method_Debit Card (impact: +0.18),20025.61,0
+CUST03052,0.1067,LOW,device_type_Smart TV (impact: +0.38),preferred_genre_Thriller (impact: +0.30),watch_hours_per_week (impact: +0.18),12480.78,1
+CUST01217,0.1063,LOW,preferred_genre_Documentary (impact: +0.64),gender_Other (impact: +0.28),payment_method_Debit Card (impact: +0.18),11424.85,0
+CUST00705,0.1062,LOW,device_type_Tablet (impact: +0.38),preferred_genre_Drama (impact: +0.20),gender_Other (impact: +0.15),1778.61,0
+CUST03760,0.1054,LOW,device_type_Tablet (impact: +0.55),payment_method_Wallet (impact: +0.15),gender_Other (impact: +0.13),24550.95,0
+CUST01759,0.1043,LOW,preferred_genre_Romance (impact: +0.55),device_type_Smart TV (impact: +0.49),num_profiles (impact: +0.14),17430.99,0
+CUST03091,0.1043,LOW,friction_score (impact: +0.53),preferred_genre_Romance (impact: +0.30),country_India (impact: +0.08),31487.94,0
+CUST02686,0.1035,LOW,device_type_Mobile (impact: +0.43),preferred_genre_Thriller (impact: +0.31),country_UAE (impact: +0.25),27218.53,0
+CUST00679,0.1024,LOW,friction_score (impact: +0.60),device_type_Tablet (impact: +0.28),preferred_genre_Drama (impact: +0.21),4822.7,1
+CUST04605,0.1022,LOW,country_UAE (impact: +0.22),gender_Other (impact: +0.20),preferred_genre_Drama (impact: +0.14),2143.89,0
+CUST04933,0.1019,LOW,device_type_Smart TV (impact: +0.52),preferred_genre_Drama (impact: +0.22),age (impact: +0.20),17029.8,0
+CUST03040,0.1018,LOW,device_type_Mobile (impact: +0.39),preferred_genre_Drama (impact: +0.22),gender_Male (impact: +0.20),4826.07,0
+CUST03723,0.1015,LOW,device_type_Smart TV (impact: +0.56),preferred_genre_Thriller (impact: +0.27),gender_Other (impact: +0.16),31587.26,0
+CUST01230,0.1015,LOW,country_UAE (impact: +0.31),payment_method_UPI (impact: +0.29),age (impact: +0.17),10768.48,0
+CUST00211,0.1014,LOW,device_type_Tablet (impact: +0.48),payment_method_UPI (impact: +0.19),age (impact: +0.12),4470.34,0
+CUST03519,0.1003,LOW,device_type_Smart TV (impact: +0.43),tenure_months (impact: +0.24),country_UAE (impact: +0.22),2864.68,0
+CUST04118,0.0996,LOW,country_USA (impact: +0.52),device_type_Tablet (impact: +0.42),preferred_genre_Comedy (impact: +0.28),6809.05,0
+CUST00614,0.0991,LOW,device_type_Mobile (impact: +0.64),payment_method_UPI (impact: +0.25),preferred_genre_Thriller (impact: +0.24),12587.32,0
+CUST04967,0.0985,LOW,device_type_Mobile (impact: +0.40),payment_method_Debit Card (impact: +0.23),preferred_genre_Kids (impact: +0.23),10346.94,0
+CUST01641,0.0974,LOW,preferred_genre_Drama (impact: +0.33),num_profiles (impact: +0.18),last_login_days_ago (impact: +0.12),10956.95,0
+CUST02630,0.0971,LOW,device_type_Tablet (impact: +0.48),gender_Male (impact: +0.22),payment_method_UPI (impact: +0.21),5929.48,0
+CUST01650,0.0954,LOW,watch_hours_per_week (impact: +0.25),payment_method_Wallet (impact: +0.18),gender_Other (impact: +0.17),6660.4,0
+CUST03908,0.0951,LOW,preferred_genre_Comedy (impact: +0.38),gender_Other (impact: +0.21),age (impact: +0.15),5942.65,0
+CUST04231,0.0946,LOW,preferred_genre_Comedy (impact: +0.31),gender_Male (impact: +0.22),last_login_days_ago (impact: +0.10),5225.06,0
+CUST00005,0.0935,LOW,preferred_genre_Comedy (impact: +0.42),country_India (impact: +0.09),watch_hours_per_week (impact: +0.04),24880.21,0
+CUST00353,0.0926,LOW,gender_Male (impact: +0.22),payment_method_Wallet (impact: +0.19),preferred_genre_Kids (impact: +0.11),17399.96,1
+CUST02912,0.0926,LOW,preferred_genre_Drama (impact: +0.24),payment_method_UPI (impact: +0.20),gender_Other (impact: +0.17),23925.57,0
+CUST02657,0.0925,LOW,country_UK (impact: +0.57),device_type_Mobile (impact: +0.54),preferred_genre_Documentary (impact: +0.42),14490.97,0
+CUST01282,0.0915,LOW,country_USA (impact: +0.55),device_type_Mobile (impact: +0.33),preferred_genre_Documentary (impact: +0.20),9039.38,0
+CUST00717,0.0914,LOW,device_type_Tablet (impact: +0.44),preferred_genre_Romance (impact: +0.16),payment_method_Wallet (impact: +0.15),8136.31,0
+CUST03325,0.0907,LOW,device_type_Smart TV (impact: +0.43),gender_Male (impact: +0.19),payment_method_Debit Card (impact: +0.19),10898.2,0
+CUST00782,0.0904,LOW,device_type_Smart TV (impact: +0.36),payment_method_Wallet (impact: +0.25),preferred_genre_Kids (impact: +0.21),21332.41,0
+CUST02672,0.0889,LOW,device_type_Mobile (impact: +0.43),preferred_genre_Documentary (impact: +0.22),engagement_score (impact: +0.15),14093.68,0
+CUST02002,0.0883,LOW,device_type_Tablet (impact: +0.41),payment_method_UPI (impact: +0.20),age (impact: +0.15),15012.45,0
+CUST00954,0.0882,LOW,preferred_genre_Romance (impact: +0.48),device_type_Smart TV (impact: +0.45),payment_method_UPI (impact: +0.24),21126.44,0
+CUST00207,0.0881,LOW,device_type_Tablet (impact: +0.47),gender_Male (impact: +0.29),payment_method_Wallet (impact: +0.12),6532.79,0
+CUST02719,0.0879,LOW,gender_Male (impact: +0.27),preferred_genre_Drama (impact: +0.15),plan_type (impact: +0.12),8530.88,0
+CUST02826,0.0837,LOW,payment_method_Debit Card (impact: +0.30),preferred_genre_Drama (impact: +0.26),tenure_months (impact: +0.20),3829.3,0
+CUST03435,0.0833,LOW,device_type_Smart TV (impact: +0.39),gender_Other (impact: +0.19),payment_method_UPI (impact: +0.18),3648.42,0
+CUST00844,0.0829,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Documentary (impact: +0.37),payment_failures_3m (impact: +0.12),52761.18,0
+CUST00153,0.0822,LOW,device_type_Tablet (impact: +0.32),country_UAE (impact: +0.22),payment_method_Wallet (impact: +0.19),7305.75,0
+CUST04160,0.0819,LOW,device_type_Tablet (impact: +0.39),gender_Male (impact: +0.22),last_login_days_ago (impact: +0.15),35943.14,1
+CUST00261,0.0817,LOW,device_type_Smart TV (impact: +0.45),num_profiles (impact: +0.17),payment_method_Debit Card (impact: +0.13),5869.63,0
+CUST01104,0.0807,LOW,tenure_months (impact: +0.33),device_type_Smart TV (impact: +0.25),preferred_genre_Thriller (impact: +0.24),5046.01,0
+CUST01095,0.0747,LOW,preferred_genre_Romance (impact: +0.46),country_UK (impact: +0.32),gender_Male (impact: +0.15),5340.02,0
+CUST00035,0.0745,LOW,gender_Male (impact: +0.20),preferred_genre_Kids (impact: +0.20),last_login_days_ago (impact: +0.11),7367.22,0
+CUST02907,0.074,LOW,device_type_Tablet (impact: +0.27),preferred_genre_Drama (impact: +0.26),payment_method_Debit Card (impact: +0.17),17756.96,1
+CUST04271,0.0728,LOW,device_type_Smart TV (impact: +0.37),country_UAE (impact: +0.24),payment_method_UPI (impact: +0.21),16192.81,1
+CUST03855,0.0725,LOW,device_type_Smart TV (impact: +0.39),preferred_genre_Comedy (impact: +0.38),last_login_days_ago (impact: +0.24),4614.5,0
+CUST02383,0.0688,LOW,logins_last_30_days (impact: +0.30),gender_Other (impact: +0.24),num_profiles (impact: +0.24),18122.73,0
+CUST00682,0.0638,LOW,preferred_genre_Thriller (impact: +0.40),gender_Other (impact: +0.21),tenure_months (impact: +0.19),3912.56,0
+CUST02849,0.0638,LOW,country_UK (impact: +0.32),preferred_genre_Comedy (impact: +0.26),device_type_Tablet (impact: +0.25),53855.07,0
+CUST04684,0.0635,LOW,device_type_Tablet (impact: +0.53),payment_method_Wallet (impact: +0.18),gender_Male (impact: +0.12),7641.29,0
+CUST00332,0.0621,LOW,country_Singapore (impact: +0.78),preferred_genre_Kids (impact: +0.13),payment_method_Debit Card (impact: +0.12),10825.27,0
+CUST04179,0.062,LOW,country_USA (impact: +0.40),device_type_Tablet (impact: +0.27),payment_method_UPI (impact: +0.22),5616.55,0
+CUST00655,0.0609,LOW,device_type_Tablet (impact: +0.49),preferred_genre_Thriller (impact: +0.30),payment_method_Wallet (impact: +0.19),42018.85,0
+CUST03729,0.0589,LOW,device_type_Smart TV (impact: +0.44),preferred_genre_Romance (impact: +0.43),country_India (impact: +0.07),4682.1,0
+CUST04234,0.0577,LOW,preferred_genre_Thriller (impact: +0.51),country_USA (impact: +0.50),payment_method_Debit Card (impact: +0.10),6937.93,0
+CUST03155,0.0572,LOW,device_type_Mobile (impact: +0.43),payment_method_UPI (impact: +0.22),preferred_genre_Comedy (impact: +0.17),3752.38,1
+CUST02975,0.057,LOW,device_type_Smart TV (impact: +0.42),preferred_genre_Documentary (impact: +0.35),payment_method_Wallet (impact: +0.14),5629.6,0
+CUST01553,0.057,LOW,preferred_genre_Thriller (impact: +0.24),last_login_days_ago (impact: +0.19),payment_method_Wallet (impact: +0.16),5629.55,1
+CUST01461,0.0566,LOW,device_type_Mobile (impact: +0.52),preferred_genre_Comedy (impact: +0.24),payment_method_UPI (impact: +0.24),9386.9,0
+CUST01153,0.0526,LOW,preferred_genre_Documentary (impact: +0.59),gender_Other (impact: +0.33),country_UK (impact: +0.32),17964.12,0
+CUST02119,0.0509,LOW,device_type_Smart TV (impact: +0.46),preferred_genre_Drama (impact: +0.22),gender_Other (impact: +0.16),20839.36,0
+CUST04060,0.0506,LOW,preferred_genre_Thriller (impact: +0.27),age (impact: +0.11),country_India (impact: +0.05),4737.41,1
+CUST02351,0.047,LOW,country_UK (impact: +0.32),device_type_Mobile (impact: +0.31),payment_method_UPI (impact: +0.21),19021.92,0
+CUST04789,0.0468,LOW,payment_method_UPI (impact: +0.23),preferred_genre_Thriller (impact: +0.22),tenure_months (impact: +0.12),13708.39,0
+CUST00173,0.046,LOW,country_USA (impact: +0.48),device_type_Tablet (impact: +0.38),,5712.61,1
+CUST01411,0.044,LOW,device_type_Mobile (impact: +0.44),payment_method_UPI (impact: +0.21),gender_Other (impact: +0.18),7419.23,0
+CUST01995,0.0423,LOW,country_UAE (impact: +0.24),payment_method_Wallet (impact: +0.18),num_profiles (impact: +0.09),33930.59,0
+CUST02752,0.0374,LOW,payment_method_Wallet (impact: +0.20),gender_Other (impact: +0.18),plan_type (impact: +0.08),9386.34,0
+CUST03089,0.0371,LOW,device_type_Tablet (impact: +0.42),preferred_genre_Drama (impact: +0.28),payment_method_UPI (impact: +0.18),21142.05,0
+CUST04740,0.0368,LOW,preferred_genre_Thriller (impact: +0.26),payment_method_UPI (impact: +0.19),country_India (impact: +0.07),8242.44,0
+CUST01760,0.0255,LOW,payment_method_UPI (impact: +0.21),preferred_genre_Comedy (impact: +0.06),is_new_customer (impact: +0.00),14102.35,0
+CUST02594,0.0227,LOW,country_Singapore (impact: +0.44),payment_method_Debit Card (impact: +0.13),preferred_genre_Drama (impact: +0.10),8946.23,0
+CUST04795,0.0181,LOW,country_UAE (impact: +0.27),gender_Male (impact: +0.13),preferred_genre_Kids (impact: +0.05),47856.85,0
+CUST99999,0.96,HIGH,friction_score (impact: +2.17),tenure_months (impact: +1.35),watch_hours_per_week (impact: +1.05),500.0,1
