@@ -1,36 +1,10 @@
-# =============================================================================
-# ChurnIQ Pro — Requirements
-# =============================================================================
-# Install command:
-#   pip install -r requirements.txt
-#
-# FILE 1 (churniq_ml_pipeline.py) needs:
-#   pandas, numpy, faker, scikit-learn, xgboost,
-#   shap, imbalanced-learn, matplotlib, seaborn
-#
-# FILE 2 (main.py) needs:
-#   fastapi, uvicorn, pandas, numpy, scikit-learn,
-#   xgboost, google-generativeai, python-multipart, pydantic
-# =============================================================================
-
-# ── Data & ML ────────────────────────────────────────────────
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.5.0
-xgboost==2.0.3
-imbalanced-learn==0.12.3
-shap==0.45.1
-faker==25.2.0
-
-# ── Visualization (File 1 only) ──────────────────────────────
-matplotlib==3.9.0
-seaborn==0.13.2
-
-# ── Web Framework (File 2 only) ──────────────────────────────
 fastapi==0.111.0
 uvicorn[standard]==0.30.1
 python-multipart==0.0.9
 pydantic==2.7.4
-
-# ── AI (File 2 only) ─────────────────────────────────────────
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+xgboost==2.0.3
+shap==0.45.1
 google-generativeai==0.7.2

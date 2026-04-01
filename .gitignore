@@ -1,0 +1,7 @@
+
+# Credentials - NEVER push!
+email_config.json
+
+# Python cache
+__pycache__/
+.env
